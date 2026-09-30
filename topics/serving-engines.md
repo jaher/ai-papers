@@ -6,7 +6,6 @@ Papers on LLM serving engines: PagedAttention/vLLM, SGLang RadixAttention, conti
 |---|---|---|---|---|
 | Efficient Memory Management for Large Language Model Serving with PagedAttention | [2309.06180](https://arxiv.org/abs/2309.06180) | Woosuk Kwon et al. | 2026-09-30 | PagedAttention KV-cache paging plus continuous batching; the serving engine the DGX Spark stack itself runs on. |
 | SGLang: Efficient Execution of Structured Language Model Programs | [2312.07104](https://arxiv.org/abs/2312.07104) | Lianmin Zheng et al. | 2026-09-30 | RadixAttention prefix caching and zero-overhead scheduler; the other major serving engine alongside vLLM. |
-
 | Clipper: A Low-Latency Online Prediction Serving System | [1612.03079](https://arxiv.org/abs/1612.03079) | Daniel Crankshaw et al. | 2026-09-30 | Machine learning is being deployed in a growing number of applications which demand real-time, accurate, and robust predictions under heavy query load |
 | Serving DNNs like Clockwork: Performance Predictability from the Bottom Up | [2006.02464](https://arxiv.org/abs/2006.02464) | Arpan Gujarati et al. | 2026-09-30 | Machine learning inference is becoming a core building block for interactive web applications |
 | DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale | [2207.00032](https://arxiv.org/abs/2207.00032) | Reza Yazdani Aminabadi et al. | 2026-09-30 | The past several years have witnessed the success of transformer-based models, and their scale and application scenarios continue to grow aggressively |
