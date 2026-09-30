@@ -6,9 +6,14 @@ A living collection of LLM inference research papers, organized by topic. Update
 
 - [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs
 - [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation
-- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, management policies
+- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference
 - [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design
+- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers
+- [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention
+- [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth
+- [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families)
 
 ## Adding papers
 
@@ -16,4 +21,4 @@ Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row 
 
 ## Stats
 
-- 9 papers as of 2026-09-30
+- 123 papers as of 2026-09-30
