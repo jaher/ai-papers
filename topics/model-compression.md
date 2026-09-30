@@ -1,0 +1,13 @@
+# Model Compression
+
+Pruning, sparsity, and distillation for smaller, faster inference models.
+
+| Paper | arXiv | Authors | Added | Summary |
+|---|---|---|---|---|
+| Distilling the Knowledge in a Neural Network | [1503.02531](https://arxiv.org/abs/1503.02531) | Geoffrey Hinton et al. | 2026-09-30 | A very simple way to improve the performance of almost any machine learning algorithm is to train many different models on the same data and then to average their predictions |
+| Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding | [1510.00149](https://arxiv.org/abs/1510.00149) | Song Han et al. | 2026-09-30 | Neural networks are both computationally intensive and memory intensive, making them difficult to deploy on embedded systems with limited hardware resources |
+| The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | [1803.03635](https://arxiv.org/abs/1803.03635) | Jonathan Frankle et al. | 2026-09-30 | Neural network pruning techniques can reduce the parameter counts of trained networks by over 90%, decreasing storage requirements and improving computational performance of inference without compromising accuracy |
+| Movement Pruning: Adaptive Sparsity by Fine-Tuning | [2005.07683](https://arxiv.org/abs/2005.07683) | Victor Sanh et al. | 2026-09-30 | Magnitude pruning is a widely used strategy for reducing model size in pure supervised learning; however, it is less effective in the transfer learning regime that has become standard for state-of-the-art natural language proce... |
+| SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot | [2301.00774](https://arxiv.org/abs/2301.00774) | Elias Frantar et al. | 2026-09-30 | We show for the first time that large-scale generative pretrained transformer (GPT) family models can be pruned to at least 50% sparsity in one-shot, without any retraining, at minimal loss of accuracy |
+| LLM-Pruner: On the Structural Pruning of Large Language Models | [2305.11627](https://arxiv.org/abs/2305.11627) | Xinyin Ma et al. | 2026-09-30 | Large language models (LLMs) have shown remarkable capabilities in language understanding and generation |
+| A Simple and Effective Pruning Approach for Large Language Models | [2306.11695](https://arxiv.org/abs/2306.11695) | Mingjie Sun et al. | 2026-09-30 | As their size increases, Large Languages Models (LLMs) are natural candidates for network pruning methods: approaches that drop a subset of network weights while striving to preserve performance |

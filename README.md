@@ -14,6 +14,11 @@ A living collection of LLM inference research papers, organized by topic. Update
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys
+- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats
+- [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking
+- [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference
+- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation
 
 ## Adding papers
 
@@ -21,4 +26,4 @@ Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row 
 
 ## Stats
 
-- 123 papers as of 2026-09-30
+- 383 papers as of 2026-09-30

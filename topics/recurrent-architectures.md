@@ -45,4 +45,6 @@ Papers on looped/recurrent transformers, weight sharing across depth, latent rea
 | Stream Recursion Model (SRM) | [2609.28809](https://arxiv.org/abs/2609.28809) | Asael Sorensen et al. | 2026-09-30 | multi-stream recursive refinement variant of HRM designed for mechanistic interpretability; GPT-2 parity per parameter. |
 | FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates | [2609.29812](https://arxiv.org/abs/2609.29812) | Wanqi Yang, Shiwei Liu | 2026-09-30 | training-free inference for looped transformers: token-sparse updates, sparse attention, KV-residual quantization; up to 1.64× speedup and 6× KV-cache reduction, lossless. |
 
+| Retentive Network: A Successor to Transformer for Large Language Models | [2307.08621](https://arxiv.org/abs/2307.08621) | Yutao Sun et al. | 2026-09-30 | In this work, we propose Retentive Network (RetNet) as a foundation architecture for large language models, simultaneously achieving training parallelism, low-cost inference, and good performance |
+| Jamba: A Hybrid Transformer-Mamba Language Model | [2403.19887](https://arxiv.org/abs/2403.19887) | Opher Lieber et al. | 2026-09-30 | We present Jamba, a new base large language model based on a novel hybrid Transformer-Mamba mixture-of-experts (MoE) architecture |
 PDFs: [`../papers/`](../papers/)
