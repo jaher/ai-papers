@@ -26,4 +26,4 @@ Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row 
 
 ## Stats
 
-- 385 papers as of 2026-10-01
+- 387 papers as of 2026-10-02
