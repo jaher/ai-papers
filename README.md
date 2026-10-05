@@ -1,6 +1,6 @@
-# LLM Inference Papers
+# AI Papers
 
-A living collection of LLM research papers, organized by topic — inference first, plus the pre-training and post-training literature inference builds on. Updated daily from the morning arXiv sweep — new papers land in the topic file that matches their primary angle, with the PDF in [`papers/`](papers/).
+A living collection of AI research papers, organized by topic: inference, pre-training, and post-training (RL, RLHF, preference optimization). Updated daily from the morning arXiv sweep — new papers land in the topic file that matches their primary angle, with the PDF in [`papers/`](papers/).
 
 ## Topics
 
