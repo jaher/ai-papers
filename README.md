@@ -1,6 +1,6 @@
 # LLM Inference Papers
 
-A living collection of LLM inference research papers, organized by topic. Updated daily from the morning arXiv sweep — new papers land in the topic file that matches their primary angle, with the PDF in [`papers/`](papers/).
+A living collection of LLM research papers, organized by topic — inference first, plus the pre-training and post-training literature inference builds on. Updated daily from the morning arXiv sweep — new papers land in the topic file that matches their primary angle, with the PDF in [`papers/`](papers/).
 
 ## Topics
 
@@ -19,6 +19,8 @@ A living collection of LLM inference research papers, organized by topic. Update
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods
 
 ## Adding papers
 
@@ -26,4 +28,4 @@ Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row 
 
 ## Stats
 
-- 391 papers as of 2026-10-04
+- 393 papers as of 2026-10-04
