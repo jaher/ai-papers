@@ -28,4 +28,6 @@ Papers on attention kernel engineering: FlashAttention, FlashAttention-2, FlashI
 | SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration | [2410.02367](https://arxiv.org/abs/2410.02367) | Jintao Zhang et al. | 2026-09-30 | The transformer architecture predominates across various models |
 | Context Parallelism for Scalable Million-Token Inference | [2411.01783](https://arxiv.org/abs/2411.01783) | Amy Yang et al. | 2026-09-30 | We present context parallelism for long-context large language model inference, which achieves near-linear scaling for long-context prefill latency with up to 128 H100 GPUs across 16 nodes |
 | Flex Attention: A Programming Model for Generating Optimized Attention Kernels | [2412.05496](https://arxiv.org/abs/2412.05496) | Juechu Dong et al. | 2026-09-30 | Over the past 7 years, attention has become one of the most important primitives in deep learning |
+| Efficient FlashAttention on Blackwell via Fixed-Shift Softmax and Persistent Scheduling | [2610.02229](https://arxiv.org/abs/2610.02229) | Oleksandr Stashuk, Hongtao Yu, Jay Shah | 2026-10-06 | FA4-style pipeline in Triton TLX: fixed-shift softmax + saved reciprocal cuts backward normalization to linear preprocessing; +7.3% geomean over FA4's BF16 grid on B200, +13.0% dense forward. |
+
 PDFs: [`../papers/`](../papers/)
