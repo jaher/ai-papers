@@ -4,6 +4,7 @@ Papers on distributed and disaggregated inference: prefill/decode splitting, pha
 
 | Paper | arXiv | Authors | Added | Summary |
 |---|---|---|---|---|
+| Democratizing MoE inference on commodity GPUs with CoMoE | [2610.09424](https://arxiv.org/abs/2610.09424) | Ruwen Fan, Yuezhi Zu, Junru Li, Qingda Hu, Xinjun Yang, Jiwu Shu, Youyou Lu | 2026-10-09 | MoE serving on PCIe-only consumer GPUs: the host acts as a routing hub, shared tokens are written to host memory once for dispatch and combine uses fine-grained host staging to avoid global sync stalls. On RTX 5090s it reports up to 1.46x throughput, nearing an NVLink A800 setup at about a quarter of the hardware cost. |
 | Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism | [1909.08053](https://arxiv.org/abs/1909.08053) | Mohammad Shoeybi et al. | 2026-09-30 | tensor/pipeline parallelism; the foundation of distributed training and model-parallel inference. |
 | ZeRO: Memory Optimizations Toward Training Trillion Parameter Models | [1910.02054](https://arxiv.org/abs/1910.02054) | Samyam Rajbhandari et al. | 2026-09-30 | sharded data parallelism; the memory-optimization standard for training and inference offload. |
 | Splitwise: Efficient generative LLM inference using phase splitting | [2311.18677](https://arxiv.org/abs/2311.18677) | Pratyush Patel et al. | 2026-09-30 | Microsoft's phase-splitting onto heterogeneous hardware; ISCA'24. |
