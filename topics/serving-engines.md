@@ -4,6 +4,7 @@ Papers on LLM serving engines: PagedAttention/vLLM, SGLang RadixAttention, conti
 
 | Paper | arXiv | Authors | Added | Summary |
 |---|---|---|---|---|
+| TokenRouter: Efficient Serving System for Token-Level LLM Routing | [2610.12242](https://arxiv.org/abs/2610.12242) | Tianyu Fu, Tengxuan Liu, Ruoxi Wang, Yixin Dong, Yi Ge, Yichen You, Yu Wang | 2026-10-10 | Serving system for token-level cross-model routing: request-centric programming over model-centric execution, one subserver per model with asynchronous dispatch and a delayed-batching scheduler tuned from a throughput model. Reports 2.01–64.15x higher decoding throughput than existing systems across routing algorithms, workloads, and model pairs. |
 | Efficient Memory Management for Large Language Model Serving with PagedAttention | [2309.06180](https://arxiv.org/abs/2309.06180) | Woosuk Kwon et al. | 2026-09-30 | PagedAttention KV-cache paging plus continuous batching; the serving engine the DGX Spark stack itself runs on. |
 | SGLang: Efficient Execution of Structured Language Model Programs | [2312.07104](https://arxiv.org/abs/2312.07104) | Lianmin Zheng et al. | 2026-09-30 | RadixAttention prefix caching and zero-overhead scheduler; the other major serving engine alongside vLLM. |
 | Clipper: A Low-Latency Online Prediction Serving System | [1612.03079](https://arxiv.org/abs/1612.03079) | Daniel Crankshaw et al. | 2026-09-30 | Machine learning is being deployed in a growing number of applications which demand real-time, accurate, and robust predictions under heavy query load |
