@@ -25,7 +25,17 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Adding papers
 
-Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table with an arXiv link, authors, date added, and a one-line summary.
+Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table with an arXiv link, authors, date added, an Importance score (see below), and a one-line summary. Insert the row in the table's reading order: by Importance first, then foundational-before-recent within the same tier.
+
+## Importance
+
+Every paper carries an Importance score for a reader working through LLM inference engineering, and each topic table is sorted in reading order — most important first, with foundational/canonical works ahead of later papers within the same tier.
+
+- ★★★★★ — field-defining: introduced the technique, or the canonical reference later work builds on
+- ★★★★☆ — major: widely cited or adopted, benchmark-setting, or used in production systems
+- ★★★☆☆ — solid: a real method or result worth reading
+- ★★☆☆☆ — incremental: a small improvement, or narrow in scope/applicability
+- ★☆☆☆☆ — tangential: marginal relevance to inference engineering
 
 ## Stats
 
