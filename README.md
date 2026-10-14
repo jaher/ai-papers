@@ -39,4 +39,4 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 845 papers as of 2026-10-13
+- 856 papers as of 2026-10-14
