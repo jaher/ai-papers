@@ -9,10 +9,10 @@ def kebab(t):
     k=re.sub(r'[^a-z0-9]+','-',t.lower()).strip('-')
     if len(k)>100: k=k[:100].rsplit('-',1)[0]
     return k
-inv=json.load(open(W+'/inventory.json'))
+inv=json.load(open(os.environ.get('INV_FILE', W+'/inventory.json')))
 present_ax={p['arxiv'] for p in inv if p['arxiv']}
 present_titles={norm(p['title']) for p in inv}
-sp=W+'/wave_state.json'
+sp=os.environ.get('STATE_FILE', W+'/wave_state.json')
 state=json.load(open(sp)) if os.path.exists(sp) else dict(added=[], skipped=[], failed=[])
 done_titles={norm(a['title']) for a in state['added']}
 done_ax={a['arxiv'] for a in state['added'] if a.get('arxiv')}

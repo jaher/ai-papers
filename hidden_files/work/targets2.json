@@ -1,0 +1,2288 @@
+[
+ {
+  "count": 89,
+  "title": "An Adversarial Winograd Schema Challenge at Scale",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 55,
+  "title": "5\u5206\u3067\u5206\u304b\u308b!? \u6709\u540d\u8ad6\u6587\u30ca\u30ca\u30e1\u8aad\u307f\uff1aJacob Devlin et al. : BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding",
+  "arxiv": null,
+  "year": 2020
+ },
+ {
+  "count": 37,
+  "title": "A framework for few-shot language model evaluation",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 31,
+  "title": "Transformers: State-of-the-Art Natural Language Processing",
+  "arxiv": null,
+  "year": 2020
+ },
+ {
+  "count": 26,
+  "title": "ZeRO: Memory Optimization Towards Training A Trillion Parameter Models",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 22,
+  "title": "SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 19,
+  "title": "UltraFeedback: Boosting Language Models with High-quality Feedback",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 17,
+  "title": "MS MARCO: A Human Generated MAchine Reading COmprehension Dataset",
+  "arxiv": "1611.09268",
+  "year": 2016
+ },
+ {
+  "count": 16,
+  "title": "Adaptive Mixtures of Local Experts",
+  "arxiv": null,
+  "year": 1991
+ },
+ {
+  "count": 16,
+  "title": "A method for stochastic optimization",
+  "arxiv": null,
+  "year": 2015
+ },
+ {
+  "count": 15,
+  "title": "A Deep Reinforced Model for Abstractive Summarization",
+  "arxiv": "1705.04304",
+  "year": 2017
+ },
+ {
+  "count": 15,
+  "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "arxiv": "1612.00837",
+  "year": 2016
+ },
+ {
+  "count": 14,
+  "title": "Xception: Deep Learning with Depthwise Separable Convolutions",
+  "arxiv": "1610.02357",
+  "year": 2016
+ },
+ {
+  "count": 13,
+  "title": "Recurrent Continuous Translation Models",
+  "arxiv": null,
+  "year": 2013
+ },
+ {
+  "count": 13,
+  "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size",
+  "arxiv": "1602.07360",
+  "year": 2016
+ },
+ {
+  "count": 13,
+  "title": "Distributed Representations of Sentences and Documents",
+  "arxiv": "1405.4053",
+  "year": 2014
+ },
+ {
+  "count": 13,
+  "title": "A Neural Attention Model for Abstractive Sentence Summarization",
+  "arxiv": "1509.00685",
+  "year": 2015
+ },
+ {
+  "count": 13,
+  "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+  "arxiv": "1705.02364",
+  "year": 2017
+ },
+ {
+  "count": 13,
+  "title": "NewsQA: A Machine Comprehension Dataset",
+  "arxiv": "1611.09830",
+  "year": 2016
+ },
+ {
+  "count": 13,
+  "title": "Bidirectional Attention Flow for Machine Comprehension",
+  "arxiv": "1611.01603",
+  "year": 2016
+ },
+ {
+  "count": 13,
+  "title": "PipeDream: generalized pipeline parallelism for DNN training",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 13,
+  "title": "Calibrate Before Use: Improving Few-Shot Performance of Language Models",
+  "arxiv": "2102.09690",
+  "year": 2021
+ },
+ {
+  "count": 13,
+  "title": "OPTQ: Accurate Quantization for Generative Pre-trained Transformers",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 13,
+  "title": "Model Alignment as Prospect Theoretic Optimization",
+  "arxiv": null,
+  "year": 2024
+ },
+ {
+  "count": 12,
+  "title": "A unified architecture for natural language processing: deep neural networks with multitask learning",
+  "arxiv": null,
+  "year": 2008
+ },
+ {
+  "count": 12,
+  "title": "Regularization of Neural Networks using DropConnect",
+  "arxiv": null,
+  "year": 2013
+ },
+ {
+  "count": 12,
+  "title": "Deep Networks with Stochastic Depth",
+  "arxiv": "1603.09382",
+  "year": 2016
+ },
+ {
+  "count": 12,
+  "title": "VQA: Visual Question Answering",
+  "arxiv": "1505.00468",
+  "year": 2015
+ },
+ {
+  "count": 12,
+  "title": "Simple and Effective Multi-Paragraph Reading Comprehension",
+  "arxiv": "1710.10723",
+  "year": 2017
+ },
+ {
+  "count": 12,
+  "title": "Annotation Artifacts in Natural Language Inference Data",
+  "arxiv": "1803.02324",
+  "year": 2018
+ },
+ {
+  "count": 12,
+  "title": "Multitask Learning",
+  "arxiv": null,
+  "year": 1997
+ },
+ {
+  "count": 12,
+  "title": "CTRL: A Conditional Transformer Language Model for Controllable Generation",
+  "arxiv": "1909.05858",
+  "year": 2019
+ },
+ {
+  "count": 12,
+  "title": "Language (Technology) is Power: A Critical Survey of \u201cBias\u201d in NLP",
+  "arxiv": "2005.14050",
+  "year": 2020
+ },
+ {
+  "count": 12,
+  "title": "Model Cards for Model Reporting",
+  "arxiv": "1810.03993",
+  "year": 2018
+ },
+ {
+  "count": 12,
+  "title": "Red Teaming Language Models with Language Models",
+  "arxiv": "2202.03286",
+  "year": 2022
+ },
+ {
+  "count": 12,
+  "title": "GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+  "arxiv": null,
+  "year": 2022
+ },
+ {
+  "count": 11,
+  "title": "ADADELTA: An Adaptive Learning Rate Method",
+  "arxiv": "1212.5701",
+  "year": 2012
+ },
+ {
+  "count": 11,
+  "title": "Fast R-CNN",
+  "arxiv": "1504.08083",
+  "year": 2015
+ },
+ {
+  "count": 11,
+  "title": "Compressing Neural Networks with the Hashing Trick",
+  "arxiv": "1504.04788",
+  "year": 2015
+ },
+ {
+  "count": 11,
+  "title": "Improving the speed of neural networks on CPUs",
+  "arxiv": null,
+  "year": 2011
+ },
+ {
+  "count": 11,
+  "title": "FitNets: Hints for Thin Deep Nets",
+  "arxiv": "1412.6550",
+  "year": 2014
+ },
+ {
+  "count": 11,
+  "title": "Deeply-Supervised Nets",
+  "arxiv": "1409.5185",
+  "year": 2014
+ },
+ {
+  "count": 11,
+  "title": "[Et al].",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 11,
+  "title": "Wide Residual Networks",
+  "arxiv": "1605.07146",
+  "year": 2016
+ },
+ {
+  "count": 11,
+  "title": "Learning Transferable Architectures for Scalable Image Recognition",
+  "arxiv": "1707.07012",
+  "year": 2017
+ },
+ {
+  "count": 11,
+  "title": "Trained Ternary Quantization",
+  "arxiv": "1612.01064",
+  "year": 2016
+ },
+ {
+  "count": 11,
+  "title": "Findings of the 2014 Workshop on Statistical Machine Translation",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 11,
+  "title": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
+  "arxiv": "1802.01561",
+  "year": 2018
+ },
+ {
+  "count": 11,
+  "title": "Large Memory Layers with Product Keys",
+  "arxiv": "1907.05242",
+  "year": 2019
+ },
+ {
+  "count": 11,
+  "title": "Language Models as Knowledge Bases?",
+  "arxiv": "1909.01066",
+  "year": 2019
+ },
+ {
+  "count": 11,
+  "title": "The Woman Worked as a Babysitter: On Biases in Language Generation",
+  "arxiv": "1909.01326",
+  "year": 2019
+ },
+ {
+  "count": 11,
+  "title": "Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets",
+  "arxiv": "2106.10328",
+  "year": 2021
+ },
+ {
+  "count": 11,
+  "title": "MAWPS: A Math Word Problem Repository",
+  "arxiv": null,
+  "year": 2016
+ },
+ {
+  "count": 11,
+  "title": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks",
+  "arxiv": "2204.07705",
+  "year": 2022
+ },
+ {
+  "count": 11,
+  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+  "arxiv": "2301.12597",
+  "year": 2023
+ },
+ {
+  "count": 11,
+  "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 11,
+  "title": "A Diagram is Worth a Dozen Images",
+  "arxiv": "1603.07396",
+  "year": 2016
+ },
+ {
+  "count": 10,
+  "title": "Maxout Networks",
+  "arxiv": "1302.4389",
+  "year": 2013
+ },
+ {
+  "count": 10,
+  "title": "International Journal of Computer Vision manuscript No. (will be inserted by the editor) The PASCAL Visual Object Classes (VOC) Challenge",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 10,
+  "title": "On the Properties of Neural Machine Translation: Encoder\u2013Decoder Approaches",
+  "arxiv": "1409.1259",
+  "year": 2014
+ },
+ {
+  "count": 10,
+  "title": "Show and tell: A neural image caption generator",
+  "arxiv": "1411.4555",
+  "year": 2014
+ },
+ {
+  "count": 10,
+  "title": "Context dependent recurrent neural network language model",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 10,
+  "title": "MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text",
+  "arxiv": null,
+  "year": 2013
+ },
+ {
+  "count": 10,
+  "title": "Published as a conference paper at ICLR 2018 S IMULATING A CTION D YNAMICS WITH N EURAL P ROCESS N ETWORKS",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+  "arxiv": "1502.03044",
+  "year": 2015
+ },
+ {
+  "count": 10,
+  "title": "Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation",
+  "arxiv": "1404.0736",
+  "year": 2014
+ },
+ {
+  "count": 10,
+  "title": "Second Order Derivatives for Network Pruning: Optimal Brain Surgeon",
+  "arxiv": null,
+  "year": 1992
+ },
+ {
+  "count": 10,
+  "title": "Highway Networks",
+  "arxiv": "1505.00387",
+  "year": 2015
+ },
+ {
+  "count": 10,
+  "title": "Torch7: A Matlab-like Environment for Machine Learning",
+  "arxiv": null,
+  "year": 2011
+ },
+ {
+  "count": 10,
+  "title": "Conditional Computation in Neural Networks for faster models",
+  "arxiv": "1511.06297",
+  "year": 2015
+ },
+ {
+  "count": 10,
+  "title": "Speeding up Convolutional Neural Networks with Low Rank Expansions",
+  "arxiv": "1405.3866",
+  "year": 2014
+ },
+ {
+  "count": 10,
+  "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+  "arxiv": "1412.3555",
+  "year": 2014
+ },
+ {
+  "count": 10,
+  "title": "Google\u2019s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation",
+  "arxiv": "1611.04558",
+  "year": 2016
+ },
+ {
+  "count": 10,
+  "title": "DARTS: Differentiable Architecture Search",
+  "arxiv": "1806.09055",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+  "arxiv": "1801.04381",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "SentEval: An Evaluation Toolkit for Universal Sentence Representations",
+  "arxiv": "1803.05449",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "Scaling Neural Machine Translation",
+  "arxiv": "1806.00187",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "Self-Attention with Relative Position Representations",
+  "arxiv": "1803.02155",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "Neural Text Generation with Unlikelihood Training",
+  "arxiv": "1908.04319",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+  "arxiv": "1902.01007",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations",
+  "arxiv": "1808.09121",
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "Generalization through Memorization: Nearest Neighbor Language Models",
+  "arxiv": "1911.00172",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "Pay Less Attention with Lightweight and Dynamic Convolutions",
+  "arxiv": "1901.10430",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "ETC: Encoding Long and Structured Inputs in Transformers",
+  "arxiv": null,
+  "year": 2020
+ },
+ {
+  "count": 10,
+  "title": "Reading Wikipedia to Answer Open-Domain Questions",
+  "arxiv": "1704.00051",
+  "year": 2017
+ },
+ {
+  "count": 10,
+  "title": "Analysing Mathematical Reasoning Abilities of Neural Models",
+  "arxiv": "1904.01557",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "BERT Loses Patience: Fast and Robust Inference with Early Exit",
+  "arxiv": "2006.04152",
+  "year": 2020
+ },
+ {
+  "count": 10,
+  "title": "SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization",
+  "arxiv": "1911.12237",
+  "year": 2019
+ },
+ {
+  "count": 10,
+  "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+  "arxiv": "2204.01691",
+  "year": 2022
+ },
+ {
+  "count": 10,
+  "title": "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus",
+  "arxiv": "2104.08758",
+  "year": 2021
+ },
+ {
+  "count": 10,
+  "title": "What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?",
+  "arxiv": "2204.05832",
+  "year": 2022
+ },
+ {
+  "count": 10,
+  "title": "Efficient Attentions for Long Document Summarization",
+  "arxiv": "2104.02112",
+  "year": 2021
+ },
+ {
+  "count": 10,
+  "title": "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization",
+  "arxiv": "2104.05938",
+  "year": 2021
+ },
+ {
+  "count": 10,
+  "title": "LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 10,
+  "title": "MMBench: Is Your Multi-modal Model an All-around Player?",
+  "arxiv": "2307.06281",
+  "year": 2023
+ },
+ {
+  "count": 10,
+  "title": "Think before you speak: Training Language Models With Pause Tokens",
+  "arxiv": "2310.02226",
+  "year": 2023
+ },
+ {
+  "count": 10,
+  "title": "(Preprint)",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 10,
+  "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning",
+  "arxiv": "2203.10244",
+  "year": 2022
+ },
+ {
+  "count": 10,
+  "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
+  "arxiv": "2410.20672",
+  "year": 2024
+ },
+ {
+  "count": 9,
+  "title": "Generating Text with Recurrent Neural Networks",
+  "arxiv": null,
+  "year": 2011
+ },
+ {
+  "count": 9,
+  "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+  "arxiv": "1406.4729",
+  "year": 2014
+ },
+ {
+  "count": 9,
+  "title": "Predicting Parameters in Deep Learning",
+  "arxiv": "1306.0543",
+  "year": 2013
+ },
+ {
+  "count": 9,
+  "title": "Efficient BackProp",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 9,
+  "title": "The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations",
+  "arxiv": "1511.02301",
+  "year": 2015
+ },
+ {
+  "count": 9,
+  "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
+  "arxiv": "1511.07289",
+  "year": 2015
+ },
+ {
+  "count": 9,
+  "title": "Learning to Solve Arithmetic Word Problems with Verb Categorization",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 9,
+  "title": "Quantized Convolutional Neural Networks for Mobile Devices",
+  "arxiv": "1512.06473",
+  "year": 2015
+ },
+ {
+  "count": 9,
+  "title": "Training deep neural networks with low precision multiplications",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 9,
+  "title": "Pixel Recurrent Neural Networks",
+  "arxiv": "1601.06759",
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures",
+  "arxiv": null,
+  "year": 2008
+ },
+ {
+  "count": 9,
+  "title": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+  "arxiv": "1510.03055",
+  "year": 2015
+ },
+ {
+  "count": 9,
+  "title": "A Decomposable Attention Model for Natural Language Inference",
+  "arxiv": "1606.01933",
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "MS MARCO: A Human Generated MAchine Reading COmprehension Dataset",
+  "arxiv": null,
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "Using the Output Embedding to Improve Language Models",
+  "arxiv": "1608.05859",
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "Adversarial Examples for Evaluating Reading Comprehension Systems",
+  "arxiv": "1707.07328",
+  "year": 2017
+ },
+ {
+  "count": 9,
+  "title": "Enriching Word Vectors with Subword Information",
+  "arxiv": "1607.04606",
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "Bag of Tricks for Efficient Text Classification",
+  "arxiv": "1607.01759",
+  "year": 2016
+ },
+ {
+  "count": 9,
+  "title": "Image Transformer",
+  "arxiv": "1802.05751",
+  "year": 2018
+ },
+ {
+  "count": 9,
+  "title": "What Does BERT Look at? An Analysis of BERT\u2019s Attention",
+  "arxiv": "1906.04341",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "FastBERT: a Self-distilling BERT with Adaptive Inference Time",
+  "arxiv": "2004.02178",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+  "arxiv": "1905.11946",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Blockwise Self-Attention for Long Document Understanding",
+  "arxiv": "1911.02972",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+  "arxiv": "2001.07676",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "The Penn Treebank: Annotating Predicate Argument Structure",
+  "arxiv": null,
+  "year": 1994
+ },
+ {
+  "count": 9,
+  "title": "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering",
+  "arxiv": "2007.01282",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "On Faithfulness and Factuality in Abstractive Summarization",
+  "arxiv": "2005.00661",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "Sparse Sinkhorn Attention",
+  "arxiv": "2002.11296",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages",
+  "arxiv": "2003.05002",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "Improving Neural Network Quantization without Retraining using Outlier Channel Splitting",
+  "arxiv": "1901.09504",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Google",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Post training 4-bit quantization of convolutional networks for rapid-deployment",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 9,
+  "title": "Making Pre-trained Language Models Better Few-shot Learners",
+  "arxiv": "2012.15723",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "QASC: A Dataset for Question Answering via Sentence Composition",
+  "arxiv": "1910.11473",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Zero-Shot Text-to-Image Generation",
+  "arxiv": "2102.12092",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "SPoC: Search-based Pseudocode to Code",
+  "arxiv": "1906.04908",
+  "year": 2019
+ },
+ {
+  "count": 9,
+  "title": "Datasheets for datasets",
+  "arxiv": "1803.09010",
+  "year": 2018
+ },
+ {
+  "count": 9,
+  "title": "Have you read the ethics review guidelines and ensured that your paper conforms to them",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 9,
+  "title": "MetaICL: Learning to Learn In Context",
+  "arxiv": "2110.15943",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics",
+  "arxiv": "2102.01672",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",
+  "arxiv": "2010.15875",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "Challenges in Detoxifying Language Models",
+  "arxiv": "2109.07445",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets",
+  "arxiv": null,
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "Denoising Diffusion Probabilistic Models",
+  "arxiv": "2006.11239",
+  "year": 2020
+ },
+ {
+  "count": 9,
+  "title": "Did you describe any potential participant risks, with links to Institutional Review Board (IRB) approvals, if applicable?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 9,
+  "title": "Primer: Searching for Efficient Transformers for Language Modeling",
+  "arxiv": "2109.08668",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "Non-Autoregressive Neural Machine Translation",
+  "arxiv": "1711.02281",
+  "year": 2017
+ },
+ {
+  "count": 9,
+  "title": "DeepNet: Scaling Transformers to 1,000 Layers",
+  "arxiv": "2203.00555",
+  "year": 2022
+ },
+ {
+  "count": 9,
+  "title": "Scaling Vision Transformers",
+  "arxiv": "2106.04560",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization",
+  "arxiv": "2212.12017",
+  "year": 2022
+ },
+ {
+  "count": 9,
+  "title": "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion",
+  "arxiv": "2306.02561",
+  "year": 2023
+ },
+ {
+  "count": 9,
+  "title": "Linear Transformers Are Secretly Fast Weight Programmers",
+  "arxiv": "2102.11174",
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "LightSeq: A High Performance Inference Library for Transformers",
+  "arxiv": null,
+  "year": 2021
+ },
+ {
+  "count": 9,
+  "title": "Less is more for alignment",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 9,
+  "title": "Ray: A Distributed Framework for Emerging AI Applications",
+  "arxiv": "1712.05889",
+  "year": 2017
+ },
+ {
+  "count": 9,
+  "title": "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+  "arxiv": "2401.03065",
+  "year": 2024
+ },
+ {
+  "count": 9,
+  "title": "From live data to high-quality benchmarks: The Arena-Hard pipeline",
+  "arxiv": null,
+  "year": 2024
+ },
+ {
+  "count": 9,
+  "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
+  "arxiv": "2409.02813",
+  "year": 2024
+ },
+ {
+  "count": 9,
+  "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+  "arxiv": "2402.14008",
+  "year": 2024
+ },
+ {
+  "count": 9,
+  "title": "MathArena: Evaluating LLMs on Uncontaminated Math Competitions",
+  "arxiv": "2505.23281",
+  "year": 2025
+ },
+ {
+  "count": 9,
+  "title": "Prompt lookup decoding,",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 9,
+  "title": "MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs",
+  "arxiv": "2501.17399",
+  "year": 2025
+ },
+ {
+  "count": 8,
+  "title": "GradientBased Learning Applied to Document Recognition",
+  "arxiv": null,
+  "year": 2001
+ },
+ {
+  "count": 8,
+  "title": "Theano: new features and speed improvements",
+  "arxiv": "1211.5590",
+  "year": 2012
+ },
+ {
+  "count": 8,
+  "title": "Statistical Language Models Based on Neural Networks",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 8,
+  "title": "Sequence Transduction with Recurrent Neural Networks",
+  "arxiv": "1211.3711",
+  "year": 2012
+ },
+ {
+  "count": 8,
+  "title": "Extracting and composing robust features with denoising autoencoders",
+  "arxiv": null,
+  "year": 2008
+ },
+ {
+  "count": 8,
+  "title": "Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories",
+  "arxiv": null,
+  "year": 2004
+ },
+ {
+  "count": 8,
+  "title": "WordNet: A Lexical Database for English",
+  "arxiv": null,
+  "year": 1995
+ },
+ {
+  "count": 8,
+  "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+  "arxiv": "1312.6120",
+  "year": 2013
+ },
+ {
+  "count": 8,
+  "title": "MuJoCo: A physics engine for model-based control",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 8,
+  "title": "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing",
+  "arxiv": "1506.07285",
+  "year": 2015
+ },
+ {
+  "count": 8,
+  "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+  "arxiv": null,
+  "year": 1999
+ },
+ {
+  "count": 8,
+  "title": "On Using Very Large Target Vocabulary for Neural Machine Translation",
+  "arxiv": "1412.2007",
+  "year": 2014
+ },
+ {
+  "count": 8,
+  "title": "EIE: Efficient Inference Engine on Compressed Deep Neural Network",
+  "arxiv": "1602.01528",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task",
+  "arxiv": "1606.02858",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets",
+  "arxiv": "1503.01007",
+  "year": 2015
+ },
+ {
+  "count": 8,
+  "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+  "arxiv": "1602.07332",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "ReferItGame: Referring to Objects in Photographs of Natural Scenes",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 8,
+  "title": "Hierarchical Mixtures of Experts and the EM Algorithm",
+  "arxiv": null,
+  "year": 1993
+ },
+ {
+  "count": 8,
+  "title": "A Neural Conversational Model",
+  "arxiv": "1506.05869",
+  "year": 2015
+ },
+ {
+  "count": 8,
+  "title": "Efficient Neural Architecture Search via Parameter Sharing",
+  "arxiv": "1802.03268",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "Optimal Brain Surgeon and general network pruning",
+  "arxiv": null,
+  "year": 1993
+ },
+ {
+  "count": 8,
+  "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+  "arxiv": "cs/0306050",
+  "year": 2003
+ },
+ {
+  "count": 8,
+  "title": "Convolutional Neural Networks using Logarithmic Data Representation",
+  "arxiv": "1603.01025",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "Visualizing Data using t-SNE",
+  "arxiv": null,
+  "year": 2008
+ },
+ {
+  "count": 8,
+  "title": "A Call for Clarity in Reporting BLEU Scores",
+  "arxiv": "1804.08771",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference",
+  "arxiv": "1808.05326",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "Unsupervised Pretraining for Sequence to Sequence Learning",
+  "arxiv": "1611.02683",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks",
+  "arxiv": "1811.01088",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods",
+  "arxiv": "1804.06876",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "Constructing Datasets for Multi-hop Reading Comprehension Across Documents",
+  "arxiv": "1710.06481",
+  "year": 2017
+ },
+ {
+  "count": 8,
+  "title": "Character-level Convolutional Networks for Text Classification",
+  "arxiv": "1509.01626",
+  "year": 2015
+ },
+ {
+  "count": 8,
+  "title": "ELI5: Long Form Question Answering",
+  "arxiv": "1907.09190",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+  "arxiv": "1908.02265",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization",
+  "arxiv": "1912.08777",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "Transformers without Tears: Improving the Normalization of Self-Attention",
+  "arxiv": "1910.05895",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification",
+  "arxiv": "1803.05355",
+  "year": 2018
+ },
+ {
+  "count": 8,
+  "title": "The Probabilistic Relevance Framework: BM25 and Beyond",
+  "arxiv": null,
+  "year": 2009
+ },
+ {
+  "count": 8,
+  "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+  "arxiv": "2004.09456",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "End-to-End Object Detection with Transformers",
+  "arxiv": "2005.12872",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "Designing Effective Sparse Expert Models",
+  "arxiv": null,
+  "year": 2022
+ },
+ {
+  "count": 8,
+  "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+  "arxiv": "1912.02164",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "Low-bit Quantization of Neural Networks for Efficient Inference",
+  "arxiv": "1902.06822",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+  "arxiv": "2107.13586",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+  "arxiv": "2104.08786",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP",
+  "arxiv": "2104.08835",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Muppet: Massive Multi-task Representations with Pre-Finetuning",
+  "arxiv": "2101.11038",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Alignment of Language Agents",
+  "arxiv": "2103.14659",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+  "arxiv": "2002.08155",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "Highly accurate protein structure prediction with AlphaFold",
+  "arxiv": null,
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Do the main claims made in the abstract and introduction accurately reflect the paper's contributions and scope?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories",
+  "arxiv": "1604.01696",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "Solving General Arithmetic Word Problems",
+  "arxiv": "1608.01413",
+  "year": 2016
+ },
+ {
+  "count": 8,
+  "title": "Green AI",
+  "arxiv": "1907.10597",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers",
+  "arxiv": "2109.10686",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Perceiver: General Perception with Iterative Attention",
+  "arxiv": "2103.03206",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Unifying Language Learning Paradigms",
+  "arxiv": null,
+  "year": 2022
+ },
+ {
+  "count": 8,
+  "title": "Did you discuss whether and how consent was obtained from people whose data you\u2019re using/curating?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "8-bit Optimizers via Block-wise Quantization",
+  "arxiv": "2110.02861",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack",
+  "arxiv": "1908.06083",
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+  "arxiv": "1712.01815",
+  "year": 2017
+ },
+ {
+  "count": 8,
+  "title": "c) Did you report error bars (e.g., with respect to the random seed after running experiments multiple times)?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+  "arxiv": "2012.09852",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "Training data-efficient image transformers & distillation through attention",
+  "arxiv": "2012.12877",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "What Makes Good In-Context Examples for GPT-3?",
+  "arxiv": "2101.06804",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Mask-Predict: Parallel Decoding of Conditional Masked Language Models",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 8,
+  "title": "PiQA: an algebra for querying protein data sets",
+  "arxiv": null,
+  "year": 2003
+ },
+ {
+  "count": 8,
+  "title": "Few-shot Learning with Retrieval Augmented Language Models",
+  "arxiv": "2208.03299",
+  "year": 2022
+ },
+ {
+  "count": 8,
+  "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+  "arxiv": "2210.08402",
+  "year": 2022
+ },
+ {
+  "count": 8,
+  "title": "Scaling Vision Transformers to 22 Billion Parameters",
+  "arxiv": "2302.05442",
+  "year": 2023
+ },
+ {
+  "count": 8,
+  "title": "Understanding Dataset Difficulty with V-Usable Information",
+  "arxiv": "2110.08420",
+  "year": 2021
+ },
+ {
+  "count": 8,
+  "title": "Falcon-40B: an open large language model with state-of-the-art performance",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 8,
+  "title": "The Claude 3 Model Family: Opus, Sonnet, Haiku",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 8,
+  "title": "Transformers are Multi-State RNNs",
+  "arxiv": "2401.06104",
+  "year": 2024
+ },
+ {
+  "count": 8,
+  "title": "OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents",
+  "arxiv": "2306.16527",
+  "year": 2023
+ },
+ {
+  "count": 8,
+  "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+  "arxiv": "2305.10355",
+  "year": 2023
+ },
+ {
+  "count": 8,
+  "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+  "arxiv": "2405.15793",
+  "year": 2024
+ },
+ {
+  "count": 8,
+  "title": "Introducing the next generation of claude",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+  "arxiv": "2401.01335",
+  "year": 2024
+ },
+ {
+  "count": 8,
+  "title": "Mooncake: Trading More Storage for Less Computation - A KVCache-centric Architecture for Serving LLM Chatbot",
+  "arxiv": null,
+  "year": 2025
+ },
+ {
+  "count": 8,
+  "title": "How Long Can Context Length of Open-Source LLMs truly Promise?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 8,
+  "title": "Paper",
+  "arxiv": null,
+  "year": 1977
+ },
+ {
+  "count": 8,
+  "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+  "arxiv": "2011.01060",
+  "year": 2020
+ },
+ {
+  "count": 8,
+  "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+  "arxiv": "2505.08775",
+  "year": 2025
+ },
+ {
+  "count": 8,
+  "title": "AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset",
+  "arxiv": "2504.16891",
+  "year": 2025
+ },
+ {
+  "count": 7,
+  "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning",
+  "arxiv": null,
+  "year": 2010
+ },
+ {
+  "count": 7,
+  "title": "Learning Hierarchical Features for Scene Labeling",
+  "arxiv": null,
+  "year": 2013
+ },
+ {
+  "count": 7,
+  "title": "UvA-DARE (Digital Academic Repository) Selective Search for Object Recognition Selective Search for Object Recognition",
+  "arxiv": null,
+  "year": 2013
+ },
+ {
+  "count": 7,
+  "title": "Some Improvements on Deep Convolutional Neural Network Based Image Classification",
+  "arxiv": "1312.5402",
+  "year": 2013
+ },
+ {
+  "count": 7,
+  "title": "Improved backing-off for M-gram language modeling",
+  "arxiv": null,
+  "year": 1995
+ },
+ {
+  "count": 7,
+  "title": "Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition",
+  "arxiv": null,
+  "year": 2012
+ },
+ {
+  "count": 7,
+  "title": "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+  "arxiv": "1106.5730",
+  "year": 2011
+ },
+ {
+  "count": 7,
+  "title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "Acceleration of stochastic approximation by averaging",
+  "arxiv": null,
+  "year": 1992
+ },
+ {
+  "count": 7,
+  "title": "DRAW: A Recurrent Neural Network For Image Generation",
+  "arxiv": "1502.04623",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Addressing the Rare Word Problem in Neural Machine Translation",
+  "arxiv": "1410.8206",
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "Moses: Open Source Toolkit for Statistical Machine Translation",
+  "arxiv": null,
+  "year": 2007
+ },
+ {
+  "count": 7,
+  "title": "Training Very Deep Networks",
+  "arxiv": "1507.06228",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Product Quantization for Nearest Neighbor Search",
+  "arxiv": null,
+  "year": 2011
+ },
+ {
+  "count": 7,
+  "title": "Learning to Transduce with Unbounded Memory",
+  "arxiv": "1506.02516",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Neural Networks with Few Multiplications",
+  "arxiv": "1510.03009",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Superintelligence: Paths, Dangers, Strategies",
+  "arxiv": null,
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Deep Learning with Differential Privacy",
+  "arxiv": "1607.00133",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Pointing the Unknown Words",
+  "arxiv": "1603.08148",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Sequence Level Training with Recurrent Neural Networks",
+  "arxiv": "1511.06732",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Scikit-learn: Machine Learning in Python",
+  "arxiv": "1201.0490",
+  "year": 2011
+ },
+ {
+  "count": 7,
+  "title": "Efficient softmax approximation for GPUs",
+  "arxiv": "1609.04309",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "Learning Factored Representations in a Deep Mixture of Experts",
+  "arxiv": "1312.4314",
+  "year": 2013
+ },
+ {
+  "count": 7,
+  "title": "OpenNMT: Open-Source Toolkit for Neural Machine Translation",
+  "arxiv": "1709.03815",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Edinburgh Neural Machine Translation Systems for WMT 16",
+  "arxiv": "1606.02891",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine",
+  "arxiv": "1704.05179",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "How transferable are features in deep neural networks?",
+  "arxiv": "1411.1792",
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+  "arxiv": "1609.04836",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era",
+  "arxiv": "1707.02968",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "On the State of the Art of Evaluation in Neural Language Models",
+  "arxiv": "1707.05589",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression",
+  "arxiv": "1707.06342",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Learning Distributed Representations of Sentences from Unlabelled Data",
+  "arxiv": "1602.03483",
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Machine Learning Challenges. Evaluating Predictive Uncertainty, Visual Object Classification, and Recognising Tectual Entailment",
+  "arxiv": null,
+  "year": 2006
+ },
+ {
+  "count": 7,
+  "title": "Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units",
+  "arxiv": null,
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Improving language understanding with unsupervised learning",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "Don't Decay the Learning Rate, Increase the Batch Size",
+  "arxiv": "1711.00489",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem",
+  "arxiv": null,
+  "year": 1989
+ },
+ {
+  "count": 7,
+  "title": "Music Transformer: Generating Music with Long-Term Structure",
+  "arxiv": "1809.04281",
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "First quora dataset release: Question pairs",
+  "arxiv": null,
+  "year": 2016
+ },
+ {
+  "count": 7,
+  "title": "Finding Generalizable Evidence by Learning to Convince Q&A Models",
+  "arxiv": "1909.05863",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+  "arxiv": "1907.00456",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "Understanding back-translation at scale",
+  "arxiv": null,
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures",
+  "arxiv": null,
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "GPU Kernels for Block-Sparse Weights",
+  "arxiv": null,
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents",
+  "arxiv": "1804.05685",
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "Latent Retrieval for Weakly Supervised Open Domain Question Answering",
+  "arxiv": "1906.00300",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "The Evolved Transformer",
+  "arxiv": "1901.11117",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "The Efficiency Misnomer",
+  "arxiv": "2110.12894",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Block Pruning For Faster Transformers",
+  "arxiv": "2109.04838",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Luna: Linear Unified Nested Attention",
+  "arxiv": "2106.01540",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+  "arxiv": "2103.14030",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Self-Training With Noisy Student Improves ImageNet Classification",
+  "arxiv": "1911.04252",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "Recipes for Building an Open-Domain Chatbot",
+  "arxiv": "2004.13637",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "BLEURT: Learning Robust Metrics for Text Generation",
+  "arxiv": "2004.04696",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks",
+  "arxiv": "1908.05033",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "ZeroQ: A Novel Zero Shot Quantization Framework",
+  "arxiv": "2001.00281",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "LSQ+: Improving low-bit quantization through learnable offsets and better initialization",
+  "arxiv": "2004.09576",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "Fixed Point Quantization of Deep Convolutional Networks",
+  "arxiv": "1511.06393",
+  "year": 2015
+ },
+ {
+  "count": 7,
+  "title": "Are You Smarter Than a Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension",
+  "arxiv": null,
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm",
+  "arxiv": "2102.07350",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning",
+  "arxiv": "1909.00277",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "ChID: A Large-scale Chinese IDiom Dataset for Cloze Test",
+  "arxiv": "1906.01265",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation",
+  "arxiv": "2102.04664",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "CodeSearchNet Challenge: Evaluating the State of Semantic Code Search",
+  "arxiv": "1909.09436",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "Learning Question Classifiers",
+  "arxiv": null,
+  "year": 2002
+ },
+ {
+  "count": 7,
+  "title": "True Few-Shot Learning with Language Models",
+  "arxiv": "2105.11447",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "The Radicalization Risks of GPT-3 and Advanced Neural Language Models",
+  "arxiv": "2009.06807",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+  "arxiv": "1906.02361",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "If you used crowdsourcing or conducted research with human subjects",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 7,
+  "title": "It\u2019s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+  "arxiv": "2009.07118",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "UNICORN on RAINBOW: A Universal Commonsense Reasoning Model on a New Multitask Benchmark",
+  "arxiv": "2103.13009",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Towards Understanding and Mitigating Social Biases in Language Models",
+  "arxiv": "2106.13219",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Can language models learn from explanations in context?",
+  "arxiv": "2204.02329",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "c) Did you include the estimated hourly wage paid to participants and the total amount spent on participant compensation?",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 7,
+  "title": "Counterfactual Memorization in Neural Language Models",
+  "arxiv": "2112.12938",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks",
+  "arxiv": "1802.08232",
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "Understanding the Difficulty of Training Transformers",
+  "arxiv": "2004.08249",
+  "year": 2020
+ },
+ {
+  "count": 7,
+  "title": "QuALITY: Question Answering with Long Input Texts, Yes!",
+  "arxiv": "2112.08608",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation",
+  "arxiv": "2109.00859",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
+  "arxiv": "2111.02080",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models",
+  "arxiv": "2201.03544",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers",
+  "arxiv": "2109.04650",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Crowdsourcing Multiple Choice Science Questions",
+  "arxiv": "1707.06209",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Board",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Transformer Quality in Linear Time",
+  "arxiv": "2202.10447",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers",
+  "arxiv": "2110.13985",
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "2023. GPT-4 Technical Report",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 7,
+  "title": "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time",
+  "arxiv": "2203.05482",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Self-critiquing models for assisting human evaluators",
+  "arxiv": "2206.05802",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "A framework for few-shot language model",
+  "arxiv": null,
+  "year": 2021
+ },
+ {
+  "count": 7,
+  "title": "Crosslingual Generalization through Multitask Finetuning",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation",
+  "arxiv": "2211.11501",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor",
+  "arxiv": "2212.09689",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Long Range Language Modeling via Gated State Spaces",
+  "arxiv": "2206.13947",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Diagonal State Spaces are as Effective as Structured State Spaces",
+  "arxiv": "2203.14343",
+  "year": 2022
+ },
+ {
+  "count": 7,
+  "title": "Parallelizing Linear Recurrent Neural Nets Over Sequence Length",
+  "arxiv": "1709.04057",
+  "year": 2017
+ },
+ {
+  "count": 7,
+  "title": "Koala: A dialogue model for academic research",
+  "arxiv": null,
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Instruction Tuning with GPT-4",
+  "arxiv": "2304.03277",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
+  "arxiv": "2306.08568",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources",
+  "arxiv": "2306.04751",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Hierarchically Gated Recurrent Neural Network for Sequence Modeling",
+  "arxiv": "2311.04823",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks",
+  "arxiv": null,
+  "year": 1992
+ },
+ {
+  "count": 7,
+  "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "arxiv": "2304.03442",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding",
+  "arxiv": "2310.05424",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "Textbooks Are All You Need II: phi-1.5 technical report",
+  "arxiv": "2309.05463",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities",
+  "arxiv": "2308.02490",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+  "arxiv": "2305.06500",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "VizWiz Grand Challenge: Answering Visual Questions from Blind People",
+  "arxiv": "1802.08218",
+  "year": 2018
+ },
+ {
+  "count": 7,
+  "title": "The High Flyer",
+  "arxiv": null,
+  "year": 1999
+ },
+ {
+  "count": 7,
+  "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+  "arxiv": null,
+  "year": 2014
+ },
+ {
+  "count": 7,
+  "title": "PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel",
+  "arxiv": "2304.11277",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge",
+  "arxiv": "1906.00067",
+  "year": 2019
+ },
+ {
+  "count": 7,
+  "title": "Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference",
+  "arxiv": "2403.09636",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+  "arxiv": "2306.03091",
+  "year": 2023
+ },
+ {
+  "count": 7,
+  "title": "PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation",
+  "arxiv": null,
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function",
+  "arxiv": "2404.12358",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "\u221eBench: Extending Long Context Evaluation Beyond 100K Tokens",
+  "arxiv": "2402.13718",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+  "arxiv": "2405.21075",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "AI@Meta",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 7,
+  "title": "Generalizing Verifiable Instruction Following",
+  "arxiv": "2507.02833",
+  "year": 2025
+ },
+ {
+  "count": 7,
+  "title": "GPT-4o System Card",
+  "arxiv": "2410.21276",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "The Expressive Power of Transformers with Chain of Thought",
+  "arxiv": null,
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs",
+  "arxiv": "2410.18451",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "The Lessons of Developing Process Reward Models in Mathematical Reasoning",
+  "arxiv": "2501.07301",
+  "year": 2025
+ },
+ {
+  "count": 7,
+  "title": "Are We Done with MMLU?",
+  "arxiv": "2406.04127",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "Parallel Speculative Decoding with Adaptive Draft Length",
+  "arxiv": "2408.11850",
+  "year": 2024
+ },
+ {
+  "count": 7,
+  "title": "1 others",
+  "arxiv": null,
+  "year": null
+ },
+ {
+  "count": 7,
+  "title": "ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning",
+  "arxiv": "2502.01100",
+  "year": 2025
+ },
+ {
+  "count": 7,
+  "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+  "arxiv": "2504.12516",
+  "year": 2025
+ },
+ {
+  "count": 7,
+  "title": "DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding",
+  "arxiv": "2510.02358",
+  "year": 2025
+ }
+]

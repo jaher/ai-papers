@@ -191,3 +191,140 @@ Method: bibliographies via Semantic Scholar Graph API (batch) for all repo paper
 - JAX (2018, 12), OpenWebText (2019, 11), AlpacaEval (2023, 11), A Mathematical Framework for Transformer Circuits (2021, 11) — software/HTML artifacts, no archival paper PDF.
 - PASCAL RTE challenge overviews 1/2/3/4/6/7 (2005–2011, 11–22 citers each) — workshop proceedings PDFs not openly obtainable.
 - Jurassic-1 technical report (2021, 16), COPA/Choice of Plausible Alternatives (2011, 24), MSR Paraphrase Corpus paper (2005, 26), nuQmm (2022, 11), CommitmentBank (2019, 10), Gradient Flow in Recurrent Nets (Hochreiter et al. 2001, 9), MultiRC 'Looking Beyond the Surface' (2018, 11) — no verifiable open PDF located in this pass.
+
+## Wave 2 (2026-10-21)
+
+- Bibliographies extracted for wave 1's 130 new arXiv papers and merged; counts recomputed over the enlarged collection (1,520 papers).
+- Missing cited by >=3 now: 2,218 (counts rose as new papers' citations were added); >=7: 427. Wave 2 worked the >=7 band (381 after junk/already-attempted filtering; 268 with arXiv IDs resolved via Semantic Scholar; non-arXiv band members deferred — source resolution limited by S2 search rate limits).
+- **Added: 150 papers** (repo PDFs 1,474 -> 1,624; topic rows 1,520 -> 1,670). Cap of 150 hit again.
+
+### Added (title | topic | score | in-collection citers)
+
+- MS MARCO: A Human Generated MAchine Reading COmprehension Dataset | foundational.md | ★★★☆☆ | 17
+- A Deep Reinforced Model for Abstractive Summarization | foundational.md | ★★★☆☆ | 15
+- Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering | foundational.md | ★★★☆☆ | 15
+- Xception: Deep Learning with Depthwise Separable Convolutions | foundational.md | ★★★☆☆ | 14
+- SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size | foundational.md | ★★★☆☆ | 13
+- Distributed Representations of Sentences and Documents | distributed-inference.md | ★★★☆☆ | 13
+- A Neural Attention Model for Abstractive Sentence Summarization | foundational.md | ★★★☆☆ | 13
+- Supervised Learning of Universal Sentence Representations from Natural Language Inference Data | foundational.md | ★★★☆☆ | 13
+- NewsQA: A Machine Comprehension Dataset | foundational.md | ★★★☆☆ | 13
+- Bidirectional Attention Flow for Machine Comprehension | foundational.md | ★★★☆☆ | 13
+- Calibrate Before Use: Improving Few-Shot Performance of Language Models | foundational.md | ★★★☆☆ | 13
+- Deep Networks with Stochastic Depth | foundational.md | ★★☆☆☆ | 12
+- VQA: Visual Question Answering | foundational.md | ★★☆☆☆ | 12
+- Simple and Effective Multi-Paragraph Reading Comprehension | foundational.md | ★★☆☆☆ | 12
+- Annotation Artifacts in Natural Language Inference Data | foundational.md | ★★☆☆☆ | 12
+- CTRL: A Conditional Transformer Language Model for Controllable Generation | foundational.md | ★★☆☆☆ | 12
+- Language (Technology) is Power: A Critical Survey of “Bias” in NLP | foundational.md | ★★☆☆☆ | 12
+- Model Cards for Model Reporting | foundational.md | ★★☆☆☆ | 12
+- Red Teaming Language Models with Language Models | foundational.md | ★★☆☆☆ | 12
+- ADADELTA: An Adaptive Learning Rate Method | foundational.md | ★★☆☆☆ | 11
+- Fast R-CNN | foundational.md | ★★☆☆☆ | 11
+- Compressing Neural Networks with the Hashing Trick | foundational.md | ★★☆☆☆ | 11
+- FitNets: Hints for Thin Deep Nets | foundational.md | ★★☆☆☆ | 11
+- Deeply-Supervised Nets | foundational.md | ★★☆☆☆ | 11
+- Wide Residual Networks | foundational.md | ★★☆☆☆ | 11
+- Learning Transferable Architectures for Scalable Image Recognition | foundational.md | ★★☆☆☆ | 11
+- Trained Ternary Quantization | quantization.md | ★★☆☆☆ | 11
+- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures | distributed-inference.md | ★★☆☆☆ | 11
+- Large Memory Layers with Product Keys | foundational.md | ★★☆☆☆ | 11
+- Language Models as Knowledge Bases? | foundational.md | ★★☆☆☆ | 11
+- The Woman Worked as a Babysitter: On Biases in Language Generation | foundational.md | ★★☆☆☆ | 11
+- Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets | foundational.md | ★★☆☆☆ | 11
+- Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks | post-training.md | ★★☆☆☆ | 11
+- BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | foundational.md | ★★☆☆☆ | 11
+- A Diagram is Worth a Dozen Images | foundational.md | ★★☆☆☆ | 11
+- Maxout Networks | foundational.md | ★★☆☆☆ | 10
+- On the Properties of Neural Machine Translation: Encoder–Decoder Approaches | foundational.md | ★★☆☆☆ | 10
+- Show and tell: A neural image caption generator | foundational.md | ★★☆☆☆ | 10
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | foundational.md | ★★☆☆☆ | 10
+- Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation | foundational.md | ★★☆☆☆ | 10
+- Highway Networks | foundational.md | ★★☆☆☆ | 10
+- Conditional Computation in Neural Networks for faster models | foundational.md | ★★☆☆☆ | 10
+- Speeding up Convolutional Neural Networks with Low Rank Expansions | foundational.md | ★★☆☆☆ | 10
+- Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | foundational.md | ★★☆☆☆ | 10
+- Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | foundational.md | ★★☆☆☆ | 10
+- DARTS: Differentiable Architecture Search | foundational.md | ★★☆☆☆ | 10
+- MobileNetV2: Inverted Residuals and Linear Bottlenecks | foundational.md | ★★☆☆☆ | 10
+- SentEval: An Evaluation Toolkit for Universal Sentence Representations | foundational.md | ★★☆☆☆ | 10
+- Scaling Neural Machine Translation | foundational.md | ★★☆☆☆ | 10
+- Self-Attention with Relative Position Representations | foundational.md | ★★☆☆☆ | 10
+- Neural Text Generation with Unlikelihood Training | foundational.md | ★★☆☆☆ | 10
+- Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference | foundational.md | ★★☆☆☆ | 10
+- WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations | foundational.md | ★★☆☆☆ | 10
+- Generalization through Memorization: Nearest Neighbor Language Models | foundational.md | ★★☆☆☆ | 10
+- Pay Less Attention with Lightweight and Dynamic Convolutions | foundational.md | ★★☆☆☆ | 10
+- Reading Wikipedia to Answer Open-Domain Questions | foundational.md | ★★☆☆☆ | 10
+- Analysing Mathematical Reasoning Abilities of Neural Models | foundational.md | ★★☆☆☆ | 10
+- BERT Loses Patience: Fast and Robust Inference with Early Exit | foundational.md | ★★☆☆☆ | 10
+- SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization | foundational.md | ★★☆☆☆ | 10
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | foundational.md | ★★☆☆☆ | 10
+- Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus | foundational.md | ★★☆☆☆ | 10
+- What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? | foundational.md | ★★☆☆☆ | 10
+- Efficient Attentions for Long Document Summarization | attention-kernels.md | ★★☆☆☆ | 10
+- QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization | foundational.md | ★★☆☆☆ | 10
+- MMBench: Is Your Multi-modal Model an All-around Player? | foundational.md | ★★☆☆☆ | 10
+- Think before you speak: Training Language Models With Pause Tokens | foundational.md | ★★☆☆☆ | 10
+- ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning | foundational.md | ★★☆☆☆ | 10
+- Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA | lora.md | ★★☆☆☆ | 10
+- Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition | foundational.md | ★★☆☆☆ | 9
+- Predicting Parameters in Deep Learning | foundational.md | ★★☆☆☆ | 9
+- The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations | foundational.md | ★★☆☆☆ | 9
+- Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) | foundational.md | ★★☆☆☆ | 9
+- Quantized Convolutional Neural Networks for Mobile Devices | quantization.md | ★★☆☆☆ | 9
+- Pixel Recurrent Neural Networks | foundational.md | ★★☆☆☆ | 9
+- A Diversity-Promoting Objective Function for Neural Conversation Models | foundational.md | ★★☆☆☆ | 9
+- A Decomposable Attention Model for Natural Language Inference | foundational.md | ★★☆☆☆ | 9
+- Using the Output Embedding to Improve Language Models | foundational.md | ★★☆☆☆ | 9
+- Adversarial Examples for Evaluating Reading Comprehension Systems | foundational.md | ★★☆☆☆ | 9
+- Enriching Word Vectors with Subword Information | foundational.md | ★★☆☆☆ | 9
+- Bag of Tricks for Efficient Text Classification | foundational.md | ★★☆☆☆ | 9
+- Image Transformer | foundational.md | ★★☆☆☆ | 9
+- What Does BERT Look at? An Analysis of BERT’s Attention | foundational.md | ★★☆☆☆ | 9
+- FastBERT: a Self-distilling BERT with Adaptive Inference Time | foundational.md | ★★☆☆☆ | 9
+- EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | foundational.md | ★★☆☆☆ | 9
+- Blockwise Self-Attention for Long Document Understanding | foundational.md | ★★☆☆☆ | 9
+- Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference | foundational.md | ★★☆☆☆ | 9
+- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering | foundational.md | ★★☆☆☆ | 9
+- On Faithfulness and Factuality in Abstractive Summarization | foundational.md | ★★☆☆☆ | 9
+- Sparse Sinkhorn Attention | foundational.md | ★★☆☆☆ | 9
+- TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages | foundational.md | ★★☆☆☆ | 9
+- Improving Neural Network Quantization without Retraining using Outlier Channel Splitting | quantization.md | ★★☆☆☆ | 9
+- Making Pre-trained Language Models Better Few-shot Learners | foundational.md | ★★☆☆☆ | 9
+- QASC: A Dataset for Question Answering via Sentence Composition | foundational.md | ★★☆☆☆ | 9
+- Zero-Shot Text-to-Image Generation | foundational.md | ★★☆☆☆ | 9
+- SPoC: Search-based Pseudocode to Code | foundational.md | ★★☆☆☆ | 9
+- Datasheets for datasets | foundational.md | ★★☆☆☆ | 9
+- MetaICL: Learning to Learn In Context | foundational.md | ★★☆☆☆ | 9
+- The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics | foundational.md | ★★☆☆☆ | 9
+- Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning | foundational.md | ★★☆☆☆ | 9
+- Challenges in Detoxifying Language Models | foundational.md | ★★☆☆☆ | 9
+- Denoising Diffusion Probabilistic Models | foundational.md | ★★☆☆☆ | 9
+- Primer: Searching for Efficient Transformers for Language Modeling | foundational.md | ★★☆☆☆ | 9
+- Non-Autoregressive Neural Machine Translation | foundational.md | ★★☆☆☆ | 9
+- DeepNet: Scaling Transformers to 1,000 Layers | foundational.md | ★★☆☆☆ | 9
+- Scaling Vision Transformers | foundational.md | ★★☆☆☆ | 9
+- OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization | post-training.md | ★★☆☆☆ | 9
+- LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion | foundational.md | ★★☆☆☆ | 9
+- Linear Transformers Are Secretly Fast Weight Programmers | foundational.md | ★★☆☆☆ | 9
+- Ray: A Distributed Framework for Emerging AI Applications | distributed-inference.md | ★★☆☆☆ | 9
+- CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution | foundational.md | ★★☆☆☆ | 9
+- MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark | foundational.md | ★★☆☆☆ | 9
+- OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems | foundational.md | ★★☆☆☆ | 9
+- MathArena: Evaluating LLMs on Uncontaminated Math Competitions | foundational.md | ★★☆☆☆ | 9
+- MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs | foundational.md | ★★☆☆☆ | 9
+- Theano: new features and speed improvements | foundational.md | ★★☆☆☆ | 8
+- Sequence Transduction with Recurrent Neural Networks | foundational.md | ★★☆☆☆ | 8
+- Exact solutions to the nonlinear dynamics of learning in deep linear neural networks | foundational.md | ★★☆☆☆ | 8
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing | foundational.md | ★★☆☆☆ | 8
+- On Using Very Large Target Vocabulary for Neural Machine Translation | foundational.md | ★★☆☆☆ | 8
+- EIE: Efficient Inference Engine on Compressed Deep Neural Network | foundational.md | ★★☆☆☆ | 8
+- A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task | foundational.md | ★★☆☆☆ | 8
+- Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets | foundational.md | ★★☆☆☆ | 8
+- Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations | foundational.md | ★★☆☆☆ | 8
+- A Neural Conversational Model | foundational.md | ★★☆☆☆ | 8
+- Efficient Neural Architecture Search via Parameter Sharing | foundational.md | ★★☆☆☆ | 8
+
+### Failed verification (download/title mismatch) this wave
+
