@@ -1,0 +1,99 @@
+[
+ {
+  "title": "Backpropagation Applied to Handwritten Zip Code Recognition",
+  "authors": [
+   "Yann LeCun",
+   "Bernhard Boser",
+   "John S. Denker",
+   "Donnie Henderson",
+   "Richard E. Howard",
+   "Wayne Hubbard",
+   "Lawrence D. Jackel"
+  ],
+  "published": "1989-12-01",
+  "abstract": null,
+  "pdf_url": "https://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf",
+  "citers": 15,
+  "arxiv": null,
+  "link": "[Neural Computation 1989](https://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)",
+  "key": [
+   "t",
+   "alt"
+  ]
+ },
+ {
+  "title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
+  "authors": [
+   "Vinod Nair",
+   "Geoffrey E. Hinton"
+  ],
+  "published": "2010-06-01",
+  "abstract": null,
+  "pdf_url": "http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf",
+  "citers": 17,
+  "arxiv": null,
+  "link": "[ICML 2010](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)",
+  "key": [
+   "t",
+   "alt"
+  ]
+ },
+ {
+  "title": "DeepSpeed: System Optimizations Enable Training Deep Learning Models with over 100 Billion Parameters",
+  "authors": [
+   "Jeff Rasley",
+   "Samyam Rajbhandari",
+   "Olatunji Ruwase",
+   "Yuxiong He"
+  ],
+  "published": "2020-08-01",
+  "abstract": null,
+  "pdf_url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/09/DeepSpeed_KDD2020.pdf",
+  "citers": 17,
+  "arxiv": null,
+  "link": "[KDD 2020](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/DeepSpeed_KDD2020.pdf)",
+  "key": [
+   "t",
+   "alt"
+  ]
+ },
+ {
+  "title": "ImageNet: A Large-Scale Hierarchical Image Database",
+  "authors": [
+   "Jia Deng",
+   "Wei Dong",
+   "Richard Socher",
+   "Li-Jia Li",
+   "Kai Li",
+   "Li Fei-Fei"
+  ],
+  "published": "2009-06-01",
+  "abstract": null,
+  "pdf_url": "https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf",
+  "citers": 30,
+  "arxiv": null,
+  "link": "[CVPR 2009](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf)",
+  "key": [
+   "t",
+   "alt"
+  ]
+ },
+ {
+  "title": "The Winograd Schema Challenge",
+  "authors": [
+   "Hector J. Levesque",
+   "Ernest Davis",
+   "Leora Morgenstern"
+  ],
+  "published": "2011-08-01",
+  "abstract": null,
+  "pdf_url": "https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/download/4492/21852",
+  "citers": 31,
+  "arxiv": null,
+  "link": "[AAAI 2011](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/download/4492/21852)",
+  "key": [
+   "t",
+   "alt"
+  ]
+ }
+]

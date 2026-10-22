@@ -1,0 +1,193 @@
+# Reference Closure Log
+
+Method: bibliographies via Semantic Scholar Graph API (batch) for all repo papers with arXiv IDs; candidates ranked by number of distinct in-collection citing papers; threshold = cited by >=3 distinct repo papers or clearly foundational to repo themes. Every addition verified: real PDF (file(1)) + first-pages title match via pdftotext. Added date for all rows: 2026-10-21. Working state in hidden_files/work/ (wave_state.json, candidates.json).
+
+## Wave 1 (2026-10-21)
+
+- PDFs processed (bibliographies extracted): 1,248 of 1,257 arXiv-ID papers in repo (9 not in Semantic Scholar).
+- Distinct cited works found: 17,886 (initial pass). Already present: ~1,060. Missing cited by >=3: 1,949; >=5: 786; >=9: 241.
+- Wave cap ~150, worked down the ranked list (junk/software/website citation records excluded).
+- **Added: 150 papers** (repo PDFs 1,324 -> 1,474; topic rows 1,370 -> 1,520). Each also copied to ~/workspace/articles/.
+
+### Added (title | topic | score | in-collection citers)
+
+- Language Models are Unsupervised Multitask Learners | foundational.md | ★★★★★ | 137
+- PIQA: Reasoning about Physical Commonsense in Natural Language | foundational.md | ★★★★★ | 80
+- TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension | foundational.md | ★★★★★ | 61
+- BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions | foundational.md | ★★★★★ | 53
+- Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering | foundational.md | ★★★★★ | 52
+- Natural Questions: A Benchmark for Question Answering Research | foundational.md | ★★★★★ | 46
+- Very Deep Convolutional Networks for Large-Scale Image Recognition | foundational.md | ★★★★☆ | 34
+- A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference | foundational.md | ★★★★☆ | 34
+- MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark | foundational.md | ★★★★☆ | 33
+- Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank | foundational.md | ★★★★☆ | 37
+- ImageNet: A Large-Scale Hierarchical Image Database | foundational.md | ★★★★☆ | 33
+- RACE: Large-scale ReAding Comprehension Dataset From Examinations | foundational.md | ★★★★☆ | 30
+- Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books | foundational.md | ★★★★☆ | 28
+- ROUGE: A Package for Automatic Evaluation of Summaries | foundational.md | ★★★★☆ | 28
+- Up or Down? Adaptive Rounding for Post-Training Quantization | quantization.md | ★★★★☆ | 26
+- Semi-supervised Sequence Learning | foundational.md | ★★★★☆ | 25
+- Know What You Don’t Know: Unanswerable Questions for SQuAD | foundational.md | ★★★★☆ | 25
+- Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation | foundational.md | ★★★☆☆ | 24
+- Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | quantization.md | ★★★☆☆ | 24
+- Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization | foundational.md | ★★★☆☆ | 24
+- Competition-level code generation with AlphaCode | foundational.md | ★★★☆☆ | 24
+- Microsoft COCO: Common Objects in Context | foundational.md | ★★★☆☆ | 23
+- BLEU: a Method for Automatic Evaluation of Machine Translation | foundational.md | ★★★☆☆ | 22
+- Teaching Machines to Read and Comprehend | foundational.md | ★★★☆☆ | 21
+- Rethinking the Inception Architecture for Computer Vision | foundational.md | ★★★☆☆ | 21
+- Neural Network Acceptability Judgments | foundational.md | ★★★☆☆ | 21
+- RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models | foundational.md | ★★★☆☆ | 21
+- AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models | foundational.md | ★★★☆☆ | 21
+- Optimal Brain Damage | foundational.md | ★★★☆☆ | 21
+- XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks | foundational.md | ★★★☆☆ | 20
+- Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond | foundational.md | ★★★☆☆ | 20
+- Asynchronous Methods for Deep Reinforcement Learning | foundational.md | ★★★☆☆ | 20
+- HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering | foundational.md | ★★★☆☆ | 20
+- A Simple Method for Commonsense Reasoning | foundational.md | ★★★☆☆ | 20
+- Learning both Weights and Connections for Efficient Neural Network | foundational.md | ★★★☆☆ | 19
+- GloVe: Global Vectors for Word Representation | foundational.md | ★★★☆☆ | 19
+- BinaryConnect: Training Deep Neural Networks with binary weights during propagations | foundational.md | ★★★☆☆ | 18
+- Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour | foundational.md | ★★★☆☆ | 18
+- SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation | foundational.md | ★★★☆☆ | 18
+- UnifiedQA: Crossing Format Boundaries With a Single QA System | foundational.md | ★★★☆☆ | 18
+- Extracting Training Data from Large Language Models | foundational.md | ★★★☆☆ | 18
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | foundational.md | ★★★☆☆ | 17
+- AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback | post-training.md | ★★★☆☆ | 17
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification | foundational.md | ★★★☆☆ | 16
+- A large annotated corpus for learning natural language inference | foundational.md | ★★★☆☆ | 16
+- Gender Bias in Coreference Resolution | foundational.md | ★★★☆☆ | 16
+- Are Sixteen Heads Really Better than One? | foundational.md | ★★★☆☆ | 16
+- Adversarial NLI: A New Benchmark for Natural Language Understanding | foundational.md | ★★★☆☆ | 16
+- Measuring Coding Challenge Competence With APPS | foundational.md | ★★★☆☆ | 16
+- MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms | foundational.md | ★★★☆☆ | 16
+- Visual Instruction Tuning | post-training.md | ★★★☆☆ | 16
+- Building a Large Annotated Corpus of English: The Penn Treebank | foundational.md | ★★★☆☆ | 16
+- Caffe: Convolutional Architecture for Fast Feature Embedding | foundational.md | ★★★☆☆ | 15
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | foundational.md | ★★★☆☆ | 15
+- SGDR: Stochastic Gradient Descent with Warm Restarts | foundational.md | ★★★☆☆ | 15
+- Multi-Task Deep Neural Networks for Natural Language Understanding | foundational.md | ★★★☆☆ | 15
+- CoQA: A Conversational Question Answering Challenge | foundational.md | ★★★☆☆ | 15
+- HAWQ: Hessian AWare Quantization of Neural Networks With Mixed-Precision | quantization.md | ★★★☆☆ | 15
+- Long Range Arena: A Benchmark for Efficient Transformers | foundational.md | ★★★☆☆ | 15
+- Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems | foundational.md | ★★★☆☆ | 15
+- Ethical and social risks of harm from Language Models | foundational.md | ★★★☆☆ | 15
+- Are NLP Models really able to Solve Simple Math Word Problems? | foundational.md | ★★★☆☆ | 15
+- Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies | foundational.md | ★★★☆☆ | 15
+- In-context Learning and Induction Heads | foundational.md | ★★★☆☆ | 15
+- Scaling Up Models and Data with t5x and seqio | foundational.md | ★★★☆☆ | 15
+- Semantic Parsing on Freebase from Question-Answer Pairs | foundational.md | ★★★☆☆ | 15
+- Deep Learning with Limited Numerical Precision | foundational.md | ★★★☆☆ | 14
+- Skip-Thought Vectors | foundational.md | ★★★☆☆ | 14
+- fairseq: A Fast, Extensible Toolkit for Sequence Modeling | foundational.md | ★★★☆☆ | 14
+- BASE Layers: Simplifying Training of Large, Sparse Models | model-compression.md | ★★★☆☆ | 14
+- Language Models (Mostly) Know What They Know | foundational.md | ★★★☆☆ | 14
+- Reinforced Self-Training (ReST) for Language Modeling | foundational.md | ★★★☆☆ | 14
+- SocialIQA: Commonsense Reasoning about Social Interactions | foundational.md | ★★★☆☆ | 14
+- End-To-End Memory Networks | foundational.md | ★★★☆☆ | 14
+- Learning Word Vectors for Sentiment Analysis | foundational.md | ★★★☆☆ | 14
+- Understanding the Difficulty of Training Deep Feedforward Neural Networks | foundational.md | ★★★☆☆ | 14
+- Network In Network | foundational.md | ★★★☆☆ | 13
+- Densely Connected Convolutional Networks | foundational.md | ★★★☆☆ | 13
+- Neural Architecture Search with Reinforcement Learning | foundational.md | ★★★☆☆ | 13
+- Learned in Translation: Contextualized Word Vectors | foundational.md | ★★★☆☆ | 13
+- ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension | foundational.md | ★★★☆☆ | 13
+- Deep Equilibrium Models | foundational.md | ★★★☆☆ | 13
+- How Much Knowledge Can You Pack into the Parameters of a Language Model? | foundational.md | ★★★☆☆ | 13
+- Scaling Laws for Transfer | foundational.md | ★★★☆☆ | 13
+- Gated Delta Networks: Improving Mamba2 with Delta Rule | foundational.md | ★★★☆☆ | 13
+- WildChat: 1M ChatGPT Interaction Logs in the Wild | foundational.md | ★★★☆☆ | 13
+- Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks | foundational.md | ★★☆☆☆ | 12
+- Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations | quantization.md | ★★☆☆☆ | 12
+- The NarrativeQA Reading Comprehension Challenge | foundational.md | ★★☆☆☆ | 12
+- The Natural Language Decathlon: Multitask Learning as Question Answering | foundational.md | ★★☆☆☆ | 12
+- Supervising strong learners by amplifying weak experts | foundational.md | ★★☆☆☆ | 12
+- DynaBERT: Dynamic BERT with Adaptive Width and Depth | foundational.md | ★★☆☆☆ | 12
+- A Constructive Prediction of the Generalization Error Across Scales | foundational.md | ★★☆☆☆ | 12
+- On Layer Normalization in the Transformer Architecture | foundational.md | ★★☆☆☆ | 12
+- MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts | foundational.md | ★★☆☆☆ | 12
+- DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition | foundational.md | ★★☆☆☆ | 11
+- Channel Pruning for Accelerating Very Deep Neural Networks | model-compression.md | ★★☆☆☆ | 11
+- XNLI: Evaluating Cross-lingual Sentence Representations | foundational.md | ★★☆☆☆ | 11
+- Defending Against Neural Fake News | foundational.md | ★★☆☆☆ | 11
+- AI safety via debate | foundational.md | ★★☆☆☆ | 11
+- MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers | model-compression.md | ★★☆☆☆ | 11
+- Energy and Policy Considerations for Deep Learning in NLP | foundational.md | ★★☆☆☆ | 11
+- DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference | foundational.md | ★★☆☆☆ | 11
+- HiPPO: Recurrent Memory with Optimal Polynomial Projections | foundational.md | ★★☆☆☆ | 11
+- Towards VQA Models That Can Read | foundational.md | ★★☆☆☆ | 11
+- Carbon Emissions and Large Neural Network Training | foundational.md | ★★☆☆☆ | 11
+- Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | foundational.md | ★★☆☆☆ | 11
+- A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers | foundational.md | ★★☆☆☆ | 11
+- A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers | foundational.md | ★★☆☆☆ | 11
+- Least-to-Most Prompting Enables Complex Reasoning in Large Language Models | foundational.md | ★★☆☆☆ | 11
+- Flamingo: a Visual Language Model for Few-Shot Learning | model-reports.md | ★★☆☆☆ | 11
+- RRHF: Rank Responses to Align Language Models with Human Feedback without tears | post-training.md | ★★☆☆☆ | 11
+- Improved Baselines with Visual Instruction Tuning | post-training.md | ★★☆☆☆ | 11
+- Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering | foundational.md | ★★☆☆☆ | 11
+- Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations | foundational.md | ★★☆☆☆ | 11
+- MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI | foundational.md | ★★☆☆☆ | 11
+- Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement | foundational.md | ★★☆☆☆ | 11
+- Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation | foundational.md | ★★☆☆☆ | 11
+- Speech recognition with deep recurrent neural networks | foundational.md | ★★☆☆☆ | 10
+- Improving neural networks by preventing co-adaptation of feature detectors | foundational.md | ★★☆☆☆ | 10
+- OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks | foundational.md | ★★☆☆☆ | 10
+- The Arcade Learning Environment: An Evaluation Platform for General Agents | foundational.md | ★★☆☆☆ | 10
+- Memory Networks | foundational.md | ★★☆☆☆ | 10
+- WaveNet: A Generative Model for Raw Audio | foundational.md | ★★☆☆☆ | 10
+- Neural GPUs Learn Algorithms | foundational.md | ★★☆☆☆ | 10
+- Exploring the Limits of Weakly Supervised Pretraining | foundational.md | ★★☆☆☆ | 10
+- LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks | quantization.md | ★★☆☆☆ | 10
+- Hierarchical Neural Story Generation | foundational.md | ★★☆☆☆ | 10
+- QuAC: Question Answering in Context | foundational.md | ★★☆☆☆ | 10
+- HAQ: Hardware-Aware Automated Quantization With Mixed Precision | quantization.md | ★★☆☆☆ | 10
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned | model-compression.md | ★★☆☆☆ | 10
+- Representation Learning with Contrastive Predictive Coding | foundational.md | ★★☆☆☆ | 10
+- Thinking Fast and Slow with Deep Learning and Tree Search | foundational.md | ★★☆☆☆ | 10
+- Dense Passage Retrieval for Open-Domain Question Answering | foundational.md | ★★☆☆☆ | 10
+- Hash Layers For Large Sparse Models | model-compression.md | ★★☆☆☆ | 10
+- Random Feature Attention | foundational.md | ★★☆☆☆ | 10
+- CLUE: A Chinese Language Understanding Evaluation Benchmark | foundational.md | ★★☆☆☆ | 10
+- ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning | foundational.md | ★★☆☆☆ | 10
+- DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale | distributed-inference.md | ★★☆☆☆ | 10
+- CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models | foundational.md | ★★☆☆☆ | 10
+- Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? | foundational.md | ★★☆☆☆ | 10
+- Generative Language Modeling for Automated Theorem Proving | foundational.md | ★★☆☆☆ | 10
+- InCoder: A Generative Model for Code Infilling and Synthesis | foundational.md | ★★☆☆☆ | 10
+- Predictability and Surprise in Large Generative Models | foundational.md | ★★☆☆☆ | 10
+- BBQ: A hand-built bias benchmark for question answering | foundational.md | ★★☆☆☆ | 10
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time | model-compression.md | ★★☆☆☆ | 10
+- Looped Transformers for Length Generalization | foundational.md | ★★☆☆☆ | 10
+- τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment | foundational.md | ★★☆☆☆ | 10
+- Adaptive Subgradient Methods for Online Learning and Stochastic Optimization | foundational.md | ★★☆☆☆ | 10
+- Natural Language Processing (Almost) from Scratch | foundational.md | ★★☆☆☆ | 9
+
+### Skipped — already in repo under a variant title/ID (dedupe catches)
+
+- HuggingFace's Transformers: State-of-the-art Natural Language Processing — already present (title)
+- ZeRO: Memory Optimizations Toward Training Trillion Parameter Models — already present (title)
+- SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification — already present (title)
+- UltraFeedback: Boosting Language Models with Scaled AI Feedback — already present (title)
+- Adam: A Method for Stochastic Optimization — already present (title)
+- GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers — already present (title)
+- KTO: Model Alignment as Prospect Theoretic Optimization — already present (title)
+- PipeDream: Fast and Efficient Pipeline Parallel DNN Training — already present (title)
+- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale — already present (title)
+- LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models — already present (title)
+- ImageNet: A Large-Scale Hierarchical Image Database — already present (title)
+
+### Wanted, not obtainable in this wave
+
+- The Winograd Schema Challenge (Levesque et al. 2011, 31 citers) — AAAI OCS PDF URLs did not return a verifiable PDF.
+- Rectified Linear Units Improve Restricted Boltzmann Machines (Nair & Hinton 2010, 17) — Toronto author-page URLs failed verification.
+- DeepSpeed (Rasley et al. 2020, 17) — Microsoft Research PDF URLs failed verification.
+- Backpropagation Applied to Handwritten Zip Code Recognition (LeCun et al. 1989, 15) — yann.lecun.com PDF failed verification.
+- Finding Structure in Time (Elman 1990, 12) — UCSD author-page URL failed verification.
+- ImageNet: A Large-Scale Hierarchical Image Database (Deng et al. 2009, 30) — image-net.org PDF failed verification.
+- Rank Analysis of Incomplete Block Designs / Bradley–Terry (1952, 29) — paywalled journal (Biometrika/JSTOR), not downloaded.
+- Stanford Alpaca (2023, 28) and Vicuna (2023, 28) — blog/GitHub releases, no archival paper PDF.
+- GPT-Neo (2021, 19) and GPT-J-6B (2021, 12) — EleutherAI releases with no archival paper PDF.
+- Reinforcement Learning: An Introduction (Sutton & Barto, 15) — a book, not a paper.
+- JAX (2018, 12), OpenWebText (2019, 11), AlpacaEval (2023, 11), A Mathematical Framework for Transformer Circuits (2021, 11) — software/HTML artifacts, no archival paper PDF.
+- PASCAL RTE challenge overviews 1/2/3/4/6/7 (2005–2011, 11–22 citers each) — workshop proceedings PDFs not openly obtainable.
+- Jurassic-1 technical report (2021, 16), COPA/Choice of Plausible Alternatives (2011, 24), MSR Paraphrase Corpus paper (2005, 26), nuQmm (2022, 11), CommitmentBank (2019, 10), Gradient Flow in Recurrent Nets (Hochreiter et al. 2001, 9), MultiRC 'Looking Beyond the Surface' (2018, 11) — no verifiable open PDF located in this pass.

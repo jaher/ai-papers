@@ -1,0 +1,113 @@
+[
+ {
+  "title": "KTO: Model Alignment as Prospect Theoretic Optimization",
+  "authors": [
+   "Kawin Ethayarajh",
+   "Winnie Xu",
+   "Niklas Muennighoff",
+   "Dan Jurafsky",
+   "Douwe Kiela"
+  ],
+  "published": "2024-02-02",
+  "abstract": "Kahneman & Tversky's $\\textit{prospect theory}$ tells us that humans perceive random variables in a biased but well-defined manner (1992); for example, humans are famously loss-averse. We show that objectives for aligning LLMs with human feedback implicitly incorporate many of these biases -- the success of these objectives (e.g., DPO) over cross-entropy minimization can partly be ascribed to them belonging to a family of loss functions that we call $\\textit{human-aware losses}$ (HALOs). However, the utility functions these methods attribute to humans still differ from those in the prospect theory literature. Using a Kahneman-Tversky model of human utility, we propose a HALO that directly maximizes the utility of generations instead of maximizing the log-likelihood of preferences, as current methods do. We call this approach KTO, and it matches or exceeds the performance of preference-based methods at scales from 1B to 30B, despite only learning from a binary signal of whether an output is desirable. More broadly, our work suggests that there is no one HALO that is universally superior; the best loss depends on the inductive biases most appropriate for a given setting, an oft-overlooked consideration.",
+  "arxiv": "2402.01306",
+  "pdf_url": "https://arxiv.org/pdf/2402.01306",
+  "link": "[2402.01306](https://arxiv.org/abs/2402.01306)",
+  "key": [
+   "ax",
+   "2402.01306"
+  ],
+  "citers": 0
+ },
+ {
+  "title": "MultiPL-E: A Scalable and Extensible Approach to Benchmarking Neural Code Generation",
+  "authors": [
+   "Federico Cassano",
+   "John Gouwar",
+   "Daniel Nguyen",
+   "Sydney Nguyen",
+   "Luna Phipps-Costin",
+   "Donald Pinckney",
+   "Ming-Ho Yee",
+   "Yangtian Zi",
+   "Carolyn Jane Anderson",
+   "Molly Q Feldman",
+   "Arjun Guha",
+   "Michael Greenberg",
+   "Abhinav Jangda"
+  ],
+  "published": "2022-08-17",
+  "abstract": "Large language models have demonstrated the ability to generate both natural language and programming language text. Such models open up the possibility of multi-language code generation: could code generation models generalize knowledge from one language to another? Although contemporary code generation models can generate semantically correct Python code, little is known about their abilities with other languages. We propose MultiPL-E, a system for translating unit test-driven code generation benchmarks to new languages. We create the first massively multilingual code generation benchmark by using MultiPL-E to translate two popular Python code generation benchmarks to 18 additional programming languages.\n  We use MultiPL-E to extend the HumanEval benchmark and MBPP benchmark to 18 languages that encompass a range of programming paradigms and popularity. Using these new parallel benchmarks, we evaluate the multi-language performance of three state-of-the-art code generation models: Codex, CodeGen, and InCoder. We find that Codex matches or even exceeds its performance on Python for several other languages. The range of programming languages represented in MultiPL-E allow us to explore the impact of language frequency and language features on model performance. Finally, the MultiPL-E approach of compiling code generation benchmarks to new programming languages is both scalable and extensible, making it straightforward to evaluate new models, benchmarks, and languages.",
+  "arxiv": "2208.08227",
+  "pdf_url": "https://arxiv.org/pdf/2208.08227",
+  "link": "[2208.08227](https://arxiv.org/abs/2208.08227)",
+  "key": [
+   "ax",
+   "2208.08227"
+  ],
+  "citers": 10
+ },
+ {
+  "title": "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference",
+  "authors": [
+   "Wei-Lin Chiang",
+   "Lianmin Zheng",
+   "Ying Sheng",
+   "Anastasios Nikolas Angelopoulos",
+   "Tianle Li",
+   "Dacheng Li",
+   "Hao Zhang",
+   "Banghua Zhu",
+   "Michael Jordan",
+   "Joseph E. Gonzalez",
+   "Ion Stoica"
+  ],
+  "published": "2024-03-07",
+  "abstract": "Large Language Models (LLMs) have unlocked new capabilities and applications; however, evaluating the alignment with human preferences still poses significant challenges. To address this issue, we introduce Chatbot Arena, an open platform for evaluating LLMs based on human preferences. Our methodology employs a pairwise comparison approach and leverages input from a diverse user base through crowdsourcing. The platform has been operational for several months, amassing over 240K votes. This paper describes the platform, analyzes the data we have collected so far, and explains the tried-and-true statistical methods we are using for efficient and accurate evaluation and ranking of models. We confirm that the crowdsourced questions are sufficiently diverse and discriminating and that the crowdsourced human votes are in good agreement with those of expert raters. These analyses collectively establish a robust foundation for the credibility of Chatbot Arena. Because of its unique value and openness, Chatbot Arena has emerged as one of the most referenced LLM leaderboards, widely cited by leading LLM developers and companies. Our demo is publicly available at \\url{https://chat.lmsys.org}.",
+  "arxiv": "2403.04132",
+  "pdf_url": "https://arxiv.org/pdf/2403.04132",
+  "link": "[2403.04132](https://arxiv.org/abs/2403.04132)",
+  "key": [
+   "ax",
+   "2403.04132"
+  ],
+  "citers": 0
+ },
+ {
+  "title": "WinoGrande: An Adversarial Winograd Schema Challenge at Scale",
+  "authors": [
+   "Keisuke Sakaguchi",
+   "Ronan Le Bras",
+   "Chandra Bhagavatula",
+   "Yejin Choi"
+  ],
+  "published": "2019-07-24",
+  "abstract": "The Winograd Schema Challenge (WSC) (Levesque, Davis, and Morgenstern 2011), a benchmark for commonsense reasoning, is a set of 273 expert-crafted pronoun resolution problems originally designed to be unsolvable for statistical models that rely on selectional preferences or word associations. However, recent advances in neural language models have already reached around 90% accuracy on variants of WSC. This raises an important question whether these models have truly acquired robust commonsense capabilities or whether they rely on spurious biases in the datasets that lead to an overestimation of the true capabilities of machine commonsense. To investigate this question, we introduce WinoGrande, a large-scale dataset of 44k problems, inspired by the original WSC design, but adjusted to improve both the scale and the hardness of the dataset. The key steps of the dataset construction consist of (1) a carefully designed crowdsourcing procedure, followed by (2) systematic bias reduction using a novel AfLite algorithm that generalizes human-detectable word associations to machine-detectable embedding associations. The best state-of-the-art methods on WinoGrande achieve 59.4-79.1%, which are 15-35% below human performance of 94.0%, depending on the amount of the training data allowed. Furthermore, we establish new state-of-the-art results on five related benchmarks - WSC (90.1%), DPR (93.1%), COPA (90.6%), KnowRef (85.6%), and Winogender (97.1%). These results have dual implications: on one hand, they demonstrate the effectiveness of WinoGrande when used as a resource for transfer learning. On the other hand, they raise a concern that we are likely to be overestimating the true capabilities of machine commonsense across all these benchmarks. We emphasize the importance of algorithmic bias reduction in existing and future benchmarks to mitigate such overestimation.",
+  "arxiv": "1907.10641",
+  "pdf_url": "https://arxiv.org/pdf/1907.10641",
+  "link": "[1907.10641](https://arxiv.org/abs/1907.10641)",
+  "key": [
+   "ax",
+   "1907.10641"
+  ],
+  "citers": 0
+ },
+ {
+  "title": "CoQA: A Conversational Question Answering Challenge",
+  "authors": [
+   "Siva Reddy",
+   "Danqi Chen",
+   "Christopher D. Manning"
+  ],
+  "published": "2018-08-21",
+  "abstract": "Humans gather information by engaging in conversations involving a series of interconnected questions and answers. For machines to assist in information gathering, it is therefore essential to enable them to answer conversational questions. We introduce CoQA, a novel dataset for building Conversational Question Answering systems. Our dataset contains 127k questions with answers, obtained from 8k conversations about text passages from seven diverse domains. The questions are conversational, and the answers are free-form text with their corresponding evidence highlighted in the passage. We analyze CoQA in depth and show that conversational questions have challenging phenomena not present in existing reading comprehension datasets, e.g., coreference and pragmatic reasoning. We evaluate strong conversational and reading comprehension models on CoQA. The best system obtains an F1 score of 65.4%, which is 23.4 points behind human performance (88.8%), indicating there is ample room for improvement. We launch CoQA as a challenge to the community at http://stanfordnlp.github.io/coqa/",
+  "arxiv": "1808.07042",
+  "pdf_url": "https://arxiv.org/pdf/1808.07042",
+  "link": "[1808.07042](https://arxiv.org/abs/1808.07042)",
+  "key": [
+   "ax",
+   "1808.07042"
+  ],
+  "citers": 0
+ }
+]
