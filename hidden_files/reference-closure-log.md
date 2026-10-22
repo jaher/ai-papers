@@ -196,7 +196,7 @@ Method: bibliographies via Semantic Scholar Graph API (batch) for all repo paper
 
 - Bibliographies extracted for wave 1's 130 new arXiv papers and merged; counts recomputed over the enlarged collection (1,520 papers).
 - Missing cited by >=3 now: 2,218 (counts rose as new papers' citations were added); >=7: 427. Wave 2 worked the >=7 band (381 after junk/already-attempted filtering; 268 with arXiv IDs resolved via Semantic Scholar; non-arXiv band members deferred — source resolution limited by S2 search rate limits).
-- **Added: 150 papers** (repo PDFs 1,474 -> 1,624; topic rows 1,520 -> 1,670). Cap of 150 hit again.
+- **Added: 125 papers** (repo PDFs 1,474 -> 1,599). NOTE (reconciliation, 2026-10-21): the executor's in-run counter reported 150, but on-disk verification after commit found 125 new PDFs and 125 matching topic rows (all 125 state records verified present with PDF + row). The 150 figure in this section's first draft was corrected to the verified 125; the added list below is the verified set.
 
 ### Added (title | topic | score | in-collection citers)
 
