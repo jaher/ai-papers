@@ -1,0 +1,1372 @@
+{
+ "added": [
+  {
+   "title": "Character-level Convolutional Networks for Text Classification",
+   "arxiv": "1509.01626",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2605\u2606\u2606",
+   "citers": 15,
+   "file": "character-level-convolutional-networks-for-text-classification_1509.01626.pdf"
+  },
+  {
+   "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+   "arxiv": "1412.2306",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2605\u2606\u2606",
+   "citers": 13,
+   "file": "deep-visual-semantic-alignments-for-generating-image-descriptions_1412.2306.pdf"
+  },
+  {
+   "title": "Addressing the Rare Word Problem in Neural Machine Translation",
+   "arxiv": "1410.8206",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 12,
+   "file": "addressing-the-rare-word-problem-in-neural-machine-translation_1410.8206.pdf"
+  },
+  {
+   "title": "DRAW: A Recurrent Neural Network For Image Generation",
+   "arxiv": "1502.04623",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "draw-a-recurrent-neural-network-for-image-generation_1502.04623.pdf"
+  },
+  {
+   "title": "Text Understanding with the Attention Sum Reader Network",
+   "arxiv": "1603.01547",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "text-understanding-with-the-attention-sum-reader-network_1603.01547.pdf"
+  },
+  {
+   "title": "SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine",
+   "arxiv": "1704.05179",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "searchqa-a-new-q-a-dataset-augmented-with-context-from-a-search-engine_1704.05179.pdf"
+  },
+  {
+   "title": "Long Short-Term Memory-Networks for Machine Reading",
+   "arxiv": "1601.06733",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "long-short-term-memory-networks-for-machine-reading_1601.06733.pdf"
+  },
+  {
+   "title": "A Call for Clarity in Reporting BLEU Scores",
+   "arxiv": "1804.08771",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "a-call-for-clarity-in-reporting-bleu-scores_1804.08771.pdf"
+  },
+  {
+   "title": "Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods",
+   "arxiv": "1804.06876",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "gender-bias-in-coreference-resolution-evaluation-and-debiasing-methods_1804.06876.pdf"
+  },
+  {
+   "title": "ELI5: Long Form Question Answering",
+   "arxiv": "1907.09190",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "eli5-long-form-question-answering_1907.09190.pdf"
+  },
+  {
+   "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+   "arxiv": "1908.02265",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks_1908.02265.pdf"
+  },
+  {
+   "title": "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization",
+   "arxiv": "1912.08777",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "pegasus-pre-training-with-extracted-gap-sentences-for-abstractive-summarization_1912.08777.pdf"
+  },
+  {
+   "title": "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings",
+   "arxiv": "1607.06520",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings_1607.06520.pdf"
+  },
+  {
+   "title": "CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP",
+   "arxiv": "2104.08835",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "crossfit-a-few-shot-learning-challenge-for-cross-task-generalization-in-nlp_2104.08835.pdf"
+  },
+  {
+   "title": "It\u2019s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+   "arxiv": "2009.07118",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "it-s-not-just-size-that-matters-small-language-models-are-also-few-shot-learners_2009.07118.pdf"
+  },
+  {
+   "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+   "arxiv": "1206.2944",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 11,
+   "file": "practical-bayesian-optimization-of-machine-learning-algorithms_1206.2944.pdf"
+  },
+  {
+   "title": "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks",
+   "arxiv": "1512.05287",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "a-theoretically-grounded-application-of-dropout-in-recurrent-neural-networks_1512.05287.pdf"
+  },
+  {
+   "title": "ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices",
+   "arxiv": "1707.01083",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "shufflenet-an-extremely-efficient-convolutional-neural-network-for-mobile-devices_1707.01083.pdf"
+  },
+  {
+   "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era",
+   "arxiv": "1707.02968",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "revisiting-unreasonable-effectiveness-of-data-in-deep-learning-era_1707.02968.pdf"
+  },
+  {
+   "title": "On the State of the Art of Evaluation in Neural Language Models",
+   "arxiv": "1707.05589",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "on-the-state-of-the-art-of-evaluation-in-neural-language-models_1707.05589.pdf"
+  },
+  {
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "arxiv": "1703.03400",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "model-agnostic-meta-learning-for-fast-adaptation-of-deep-networks_1703.03400.pdf"
+  },
+  {
+   "title": "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference",
+   "arxiv": "1808.05326",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "swag-a-large-scale-adversarial-dataset-for-grounded-commonsense-inference_1808.05326.pdf"
+  },
+  {
+   "title": "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling",
+   "arxiv": "1611.01462",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "tying-word-vectors-and-word-classifiers-a-loss-framework-for-language-modeling_1611.01462.pdf"
+  },
+  {
+   "title": "Bottom-Up Abstractive Summarization",
+   "arxiv": "1808.10792",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "bottom-up-abstractive-summarization_1808.10792.pdf"
+  },
+  {
+   "title": "Constructing Datasets for Multi-hop Reading Comprehension Across Documents",
+   "arxiv": "1710.06481",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "constructing-datasets-for-multi-hop-reading-comprehension-across-documents_1710.06481.pdf"
+  },
+  {
+   "title": "A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents",
+   "arxiv": "1804.05685",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "a-discourse-aware-attention-model-for-abstractive-summarization-of-long-documents_1804.05685.pdf"
+  },
+  {
+   "title": "Latent Retrieval for Weakly Supervised Open Domain Question Answering",
+   "arxiv": "1906.00300",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "latent-retrieval-for-weakly-supervised-open-domain-question-answering_1906.00300.pdf"
+  },
+  {
+   "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+   "arxiv": "2104.08786",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "fantastically-ordered-prompts-and-where-to-find-them-overcoming-few-shot-prompt-order-sensitivity_2104.08786.pdf"
+  },
+  {
+   "title": "Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack",
+   "arxiv": "1908.06083",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "build-it-break-it-fix-it-for-dialogue-safety-robustness-from-adversarial-human-attack_1908.06083.pdf"
+  },
+  {
+   "title": "Crowdsourcing Multiple Choice Science Questions",
+   "arxiv": "1707.06209",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "crowdsourcing-multiple-choice-science-questions_1707.06209.pdf"
+  },
+  {
+   "title": "OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge",
+   "arxiv": "1906.00067",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 10,
+   "file": "ok-vqa-a-visual-question-answering-benchmark-requiring-external-knowledge_1906.00067.pdf"
+  },
+  {
+   "title": "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+   "arxiv": "1106.5730",
+   "topic": "distributed-inference.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "hogwild-a-lock-free-approach-to-parallelizing-stochastic-gradient-descent_1106.5730.pdf"
+  },
+  {
+   "title": "Training Very Deep Networks",
+   "arxiv": "1507.06228",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "training-very-deep-networks_1507.06228.pdf"
+  },
+  {
+   "title": "Intriguing properties of neural networks",
+   "arxiv": "1312.6199",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "intriguing-properties-of-neural-networks_1312.6199.pdf"
+  },
+  {
+   "title": "Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales",
+   "arxiv": "cs/0506075",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "seeing-stars-exploiting-class-relationships-for-sentiment-categorization-with-respect-to-rating_cs-0506075.pdf"
+  },
+  {
+   "title": "Sequence Level Training with Recurrent Neural Networks",
+   "arxiv": "1511.06732",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "sequence-level-training-with-recurrent-neural-networks_1511.06732.pdf"
+  },
+  {
+   "title": "Multi-task Sequence to Sequence Learning",
+   "arxiv": "1511.06114",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "multi-task-sequence-to-sequence-learning_1511.06114.pdf"
+  },
+  {
+   "title": "Efficient softmax approximation for GPUs",
+   "arxiv": "1609.04309",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "efficient-softmax-approximation-for-gpus_1609.04309.pdf"
+  },
+  {
+   "title": "A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input",
+   "arxiv": "1410.0210",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "a-multi-world-approach-to-question-answering-about-real-world-scenes-based-on-uncertain-input_1410.0210.pdf"
+  },
+  {
+   "title": "OpenNMT: Open-Source Toolkit for Neural Machine Translation",
+   "arxiv": "1709.03815",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "opennmt-open-source-toolkit-for-neural-machine-translation_1709.03815.pdf"
+  },
+  {
+   "title": "HyperNetworks",
+   "arxiv": "1609.09106",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "hypernetworks_1609.09106.pdf"
+  },
+  {
+   "title": "Hypothesis Only Baselines in Natural Language Inference",
+   "arxiv": "1805.01042",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "hypothesis-only-baselines-in-natural-language-inference_1805.01042.pdf"
+  },
+  {
+   "title": "Learning Distributed Representations of Sentences from Unlabelled Data",
+   "arxiv": "1602.03483",
+   "topic": "distributed-inference.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "learning-distributed-representations-of-sentences-from-unlabelled-data_1602.03483.pdf"
+  },
+  {
+   "title": "Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks",
+   "arxiv": "1811.01088",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "sentence-encoders-on-stilts-supplementary-training-on-intermediate-labeled-data-tasks_1811.01088.pdf"
+  },
+  {
+   "title": "Transformers without Tears: Improving the Normalization of Self-Attention",
+   "arxiv": "1910.05895",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "transformers-without-tears-improving-the-normalization-of-self-attention_1910.05895.pdf"
+  },
+  {
+   "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification",
+   "arxiv": "1803.05355",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "fever-a-large-scale-dataset-for-fact-extraction-and-verification_1803.05355.pdf"
+  },
+  {
+   "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+   "arxiv": "2004.09456",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "stereoset-measuring-stereotypical-bias-in-pretrained-language-models_2004.09456.pdf"
+  },
+  {
+   "title": "End-to-End Object Detection with Transformers",
+   "arxiv": "2005.12872",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "end-to-end-object-detection-with-transformers_2005.12872.pdf"
+  },
+  {
+   "title": "The Evolved Transformer",
+   "arxiv": "1901.11117",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "the-evolved-transformer_1901.11117.pdf"
+  },
+  {
+   "title": "BLEURT: Learning Robust Metrics for Text Generation",
+   "arxiv": "2004.04696",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "bleurt-learning-robust-metrics-for-text-generation_2004.04696.pdf"
+  },
+  {
+   "title": "Plug and Play Language Models: A Simple Approach to Controlled Text Generation",
+   "arxiv": "1912.02164",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "plug-and-play-language-models-a-simple-approach-to-controlled-text-generation_1912.02164.pdf"
+  },
+  {
+   "title": "BERTScore: Evaluating Text Generation with BERT",
+   "arxiv": "1904.09675",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "bertscore-evaluating-text-generation-with-bert_1904.09675.pdf"
+  },
+  {
+   "title": "CIDEr: Consensus-based image description evaluation",
+   "arxiv": "1411.5726",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "cider-consensus-based-image-description-evaluation_1411.5726.pdf"
+  },
+  {
+   "title": "Muppet: Massive Multi-task Representations with Pre-Finetuning",
+   "arxiv": "2101.11038",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "muppet-massive-multi-task-representations-with-pre-finetuning_2101.11038.pdf"
+  },
+  {
+   "title": "Alignment of Language Agents",
+   "arxiv": "2103.14659",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "alignment-of-language-agents_2103.14659.pdf"
+  },
+  {
+   "title": "A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories",
+   "arxiv": "1604.01696",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "a-corpus-and-cloze-evaluation-for-deeper-understanding-of-commonsense-stories_1604.01696.pdf"
+  },
+  {
+   "title": "True Few-Shot Learning with Language Models",
+   "arxiv": "2105.11447",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "true-few-shot-learning-with-language-models_2105.11447.pdf"
+  },
+  {
+   "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+   "arxiv": "1906.02361",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "explain-yourself-leveraging-language-models-for-commonsense-reasoning_1906.02361.pdf"
+  },
+  {
+   "title": "8-bit Optimizers via Block-wise Quantization",
+   "arxiv": "2110.02861",
+   "topic": "quantization.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "8-bit-optimizers-via-block-wise-quantization_2110.02861.pdf"
+  },
+  {
+   "title": "Understanding the Difficulty of Training Transformers",
+   "arxiv": "2004.08249",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "understanding-the-difficulty-of-training-transformers_2004.08249.pdf"
+  },
+  {
+   "title": "Training data-efficient image transformers & distillation through attention",
+   "arxiv": "2012.12877",
+   "topic": "model-compression.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "training-data-efficient-image-transformers-distillation-through-attention_2012.12877.pdf"
+  },
+  {
+   "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+   "arxiv": "1809.08887",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "spider-a-large-scale-human-labeled-dataset-for-complex-and-cross-domain-semantic-parsing-and-text_1809.08887.pdf"
+  },
+  {
+   "title": "OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents",
+   "arxiv": "2306.16527",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "obelisc-an-open-web-scale-filtered-dataset-of-interleaved-image-text-documents_2306.16527.pdf"
+  },
+  {
+   "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+   "arxiv": "2305.06500",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 9,
+   "file": "instructblip-towards-general-purpose-vision-language-models-with-instruction-tuning_2305.06500.pdf"
+  },
+  {
+   "title": "Some Improvements on Deep Convolutional Neural Network Based Image Classification",
+   "arxiv": "1312.5402",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "some-improvements-on-deep-convolutional-neural-network-based-image-classification_1312.5402.pdf"
+  },
+  {
+   "title": "Return of the Devil in the Details: Delving Deep into Convolutional Nets",
+   "arxiv": "1405.3531",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets_1405.3531.pdf"
+  },
+  {
+   "title": "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models",
+   "arxiv": "1411.2539",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "unifying-visual-semantic-embeddings-with-multimodal-neural-language-models_1411.2539.pdf"
+  },
+  {
+   "title": "CNN Features Off-the-Shelf: An Astounding Baseline for Recognition",
+   "arxiv": "1403.6382",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "cnn-features-off-the-shelf-an-astounding-baseline-for-recognition_1403.6382.pdf"
+  },
+  {
+   "title": "FractalNet: Ultra-Deep Neural Networks without Residuals",
+   "arxiv": "1605.07648",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "fractalnet-ultra-deep-neural-networks-without-residuals_1605.07648.pdf"
+  },
+  {
+   "title": "Learning to Transduce with Unbounded Memory",
+   "arxiv": "1506.02516",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "learning-to-transduce-with-unbounded-memory_1506.02516.pdf"
+  },
+  {
+   "title": "Neural Networks with Few Multiplications",
+   "arxiv": "1510.03009",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "neural-networks-with-few-multiplications_1510.03009.pdf"
+  },
+  {
+   "title": "Deep Learning with Differential Privacy",
+   "arxiv": "1607.00133",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "deep-learning-with-differential-privacy_1607.00133.pdf"
+  },
+  {
+   "title": "Recurrent Highway Networks",
+   "arxiv": "1607.03474",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "recurrent-highway-networks_1607.03474.pdf"
+  },
+  {
+   "title": "Pointing the Unknown Words",
+   "arxiv": "1603.08148",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "pointing-the-unknown-words_1603.08148.pdf"
+  },
+  {
+   "title": "Latent Predictor Networks for Code Generation",
+   "arxiv": "1603.06744",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "latent-predictor-networks-for-code-generation_1603.06744.pdf"
+  },
+  {
+   "title": "Dynamic Memory Networks for Visual and Textual Question Answering",
+   "arxiv": "1603.01417",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "dynamic-memory-networks-for-visual-and-textual-question-answering_1603.01417.pdf"
+  },
+  {
+   "title": "Scikit-learn: Machine Learning in Python",
+   "arxiv": "1201.0490",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "scikit-learn-machine-learning-in-python_1201.0490.pdf"
+  },
+  {
+   "title": "Conditional Image Generation with PixelCNN Decoders",
+   "arxiv": "1606.05328",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "conditional-image-generation-with-pixelcnn-decoders_1606.05328.pdf"
+  },
+  {
+   "title": "Learning Factored Representations in a Deep Mixture of Experts",
+   "arxiv": "1312.4314",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "learning-factored-representations-in-a-deep-mixture-of-experts_1312.4314.pdf"
+  },
+  {
+   "title": "Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors",
+   "arxiv": "1611.10012",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "speed-accuracy-trade-offs-for-modern-convolutional-object-detectors_1611.10012.pdf"
+  },
+  {
+   "title": "Edinburgh Neural Machine Translation Systems for WMT 16",
+   "arxiv": "1606.02891",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "edinburgh-neural-machine-translation-systems-for-wmt-16_1606.02891.pdf"
+  },
+  {
+   "title": "Progressive Neural Architecture Search",
+   "arxiv": "1712.00559",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "progressive-neural-architecture-search_1712.00559.pdf"
+  },
+  {
+   "title": "Regularizing and Optimizing LSTM Language Models",
+   "arxiv": "1708.02182",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "regularizing-and-optimizing-lstm-language-models_1708.02182.pdf"
+  },
+  {
+   "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+   "arxiv": "cs/0306050",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "introduction-to-the-conll-2003-shared-task-language-independent-named-entity-recognition_cs-0306050.pdf"
+  },
+  {
+   "title": "Convolutional Neural Networks using Logarithmic Data Representation",
+   "arxiv": "1603.01025",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "convolutional-neural-networks-using-logarithmic-data-representation_1603.01025.pdf"
+  },
+  {
+   "title": "Don't Decay the Learning Rate, Increase the Batch Size",
+   "arxiv": "1711.00489",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "don-t-decay-the-learning-rate-increase-the-batch-size_1711.00489.pdf"
+  },
+  {
+   "title": "Unsupervised Pretraining for Sequence to Sequence Learning",
+   "arxiv": "1611.02683",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "unsupervised-pretraining-for-sequence-to-sequence-learning_1611.02683.pdf"
+  },
+  {
+   "title": "Finding Generalizable Evidence by Learning to Convince Q&A Models",
+   "arxiv": "1909.05863",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "finding-generalizable-evidence-by-learning-to-convince-q-a-models_1909.05863.pdf"
+  },
+  {
+   "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+   "arxiv": "1907.00456",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "way-off-policy-batch-deep-reinforcement-learning-of-implicit-human-preferences-in-dialog_1907.00456.pdf"
+  },
+  {
+   "title": "Unsupervised Data Augmentation for Consistency Training",
+   "arxiv": "1904.12848",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "unsupervised-data-augmentation-for-consistency-training_1904.12848.pdf"
+  },
+  {
+   "title": "Wizard of Wikipedia: Knowledge-Powered Conversational agents",
+   "arxiv": "1811.01241",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "wizard-of-wikipedia-knowledge-powered-conversational-agents_1811.01241.pdf"
+  },
+  {
+   "title": "The Efficiency Misnomer",
+   "arxiv": "2110.12894",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "the-efficiency-misnomer_2110.12894.pdf"
+  },
+  {
+   "title": "Self-Training With Noisy Student Improves ImageNet Classification",
+   "arxiv": "1911.04252",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "self-training-with-noisy-student-improves-imagenet-classification_1911.04252.pdf"
+  },
+  {
+   "title": "Don\u2019t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+   "arxiv": "2004.10964",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "don-t-stop-pretraining-adapt-language-models-to-domains-and-tasks_2004.10964.pdf"
+  },
+  {
+   "title": "Recipes for Building an Open-Domain Chatbot",
+   "arxiv": "2004.13637",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "recipes-for-building-an-open-domain-chatbot_2004.13637.pdf"
+  },
+  {
+   "title": "How Can We Know What Language Models Know?",
+   "arxiv": "1911.12543",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "how-can-we-know-what-language-models-know_1911.12543.pdf"
+  },
+  {
+   "title": "Low-bit Quantization of Neural Networks for Efficient Inference",
+   "arxiv": "1902.06822",
+   "topic": "quantization.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "low-bit-quantization-of-neural-networks-for-efficient-inference_1902.06822.pdf"
+  },
+  {
+   "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+   "arxiv": "2107.13586",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "pre-train-prompt-and-predict-a-systematic-survey-of-prompting-methods-in-natural-language-processing_2107.13586.pdf"
+  },
+  {
+   "title": "Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections",
+   "arxiv": "2104.04670",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "adapting-language-models-for-zero-shot-learning-by-meta-tuning-on-dataset-and-prompt-collections_2104.04670.pdf"
+  },
+  {
+   "title": "Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning",
+   "arxiv": "1909.00277",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "cosmos-qa-machine-reading-comprehension-with-contextual-commonsense-reasoning_1909.00277.pdf"
+  },
+  {
+   "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+   "arxiv": "2002.08155",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "codebert-a-pre-trained-model-for-programming-and-natural-languages_2002.08155.pdf"
+  },
+  {
+   "title": "Do Transformer Modifications Transfer Across Implementations and Applications?",
+   "arxiv": "2102.11972",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "do-transformer-modifications-transfer-across-implementations-and-applications_2102.11972.pdf"
+  },
+  {
+   "title": "Recipes for Safety in Open-domain Chatbots",
+   "arxiv": "2010.07079",
+   "topic": "post-training.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "recipes-for-safety-in-open-domain-chatbots_2010.07079.pdf"
+  },
+  {
+   "title": "Solving General Arithmetic Word Problems",
+   "arxiv": "1608.01413",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "solving-general-arithmetic-word-problems_1608.01413.pdf"
+  },
+  {
+   "title": "Green AI",
+   "arxiv": "1907.10597",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "green-ai_1907.10597.pdf"
+  },
+  {
+   "title": "Semantics derived automatically from language corpora contain human-like biases",
+   "arxiv": "1608.07187",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "semantics-derived-automatically-from-language-corpora-contain-human-like-biases_1608.07187.pdf"
+  },
+  {
+   "title": "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts",
+   "arxiv": "2202.01279",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "promptsource-an-integrated-development-environment-and-repository-for-natural-language-prompts_2202.01279.pdf"
+  },
+  {
+   "title": "Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers",
+   "arxiv": "2109.10686",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "scale-efficiently-insights-from-pre-training-and-fine-tuning-transformers_2109.10686.pdf"
+  },
+  {
+   "title": "Perceiver: General Perception with Iterative Attention",
+   "arxiv": "2103.03206",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "perceiver-general-perception-with-iterative-attention_2103.03206.pdf"
+  },
+  {
+   "title": "Ethical Challenges in Data-Driven Dialogue Systems",
+   "arxiv": "1711.09050",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "ethical-challenges-in-data-driven-dialogue-systems_1711.09050.pdf"
+  },
+  {
+   "title": "Can language models learn from explanations in context?",
+   "arxiv": "2204.02329",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "can-language-models-learn-from-explanations-in-context_2204.02329.pdf"
+  },
+  {
+   "title": "The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks",
+   "arxiv": "1802.08232",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "the-secret-sharer-evaluating-and-testing-unintended-memorization-in-neural-networks_1802.08232.pdf"
+  },
+  {
+   "title": "Detoxifying Language Models Risks Marginalizing Minority Voices",
+   "arxiv": "2104.06390",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "detoxifying-language-models-risks-marginalizing-minority-voices_2104.06390.pdf"
+  },
+  {
+   "title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+   "arxiv": "1712.01815",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm_1712.01815.pdf"
+  },
+  {
+   "title": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+   "arxiv": "2012.09852",
+   "topic": "model-compression.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "spatten-efficient-sparse-attention-architecture-with-cascade-token-and-head-pruning_2012.09852.pdf"
+  },
+  {
+   "title": "On Calibration of Modern Neural Networks",
+   "arxiv": "1706.04599",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "on-calibration-of-modern-neural-networks_1706.04599.pdf"
+  },
+  {
+   "title": "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers",
+   "arxiv": "2109.04650",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "what-changes-can-large-scale-language-models-bring-intensive-study-on-hyperclova-billions-scale_2109.04650.pdf"
+  },
+  {
+   "title": "What Makes Good In-Context Examples for GPT-3?",
+   "arxiv": "2101.06804",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "what-makes-good-in-context-examples-for-gpt-3_2101.06804.pdf"
+  },
+  {
+   "title": "The Web as a Knowledge-Base for Answering Complex Questions",
+   "arxiv": "1803.06643",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "the-web-as-a-knowledge-base-for-answering-complex-questions_1803.06643.pdf"
+  },
+  {
+   "title": "Few-shot Learning with Retrieval Augmented Language Models",
+   "arxiv": "2208.03299",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "few-shot-learning-with-retrieval-augmented-language-models_2208.03299.pdf"
+  },
+  {
+   "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+   "arxiv": "2210.08402",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "laion-5b-an-open-large-scale-dataset-for-training-next-generation-image-text-models_2210.08402.pdf"
+  },
+  {
+   "title": "Microsoft COCO Captions: Data Collection and Evaluation Server",
+   "arxiv": "1504.00325",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "microsoft-coco-captions-data-collection-and-evaluation-server_1504.00325.pdf"
+  },
+  {
+   "title": "Scaling Vision Transformers to 22 Billion Parameters",
+   "arxiv": "2302.05442",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "scaling-vision-transformers-to-22-billion-parameters_2302.05442.pdf"
+  },
+  {
+   "title": "Understanding Dataset Difficulty with V-Usable Information",
+   "arxiv": "2110.08420",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "understanding-dataset-difficulty-with-v-usable-information_2110.08420.pdf"
+  },
+  {
+   "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+   "arxiv": "2304.10592",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "minigpt-4-enhancing-vision-language-understanding-with-advanced-large-language-models_2304.10592.pdf"
+  },
+  {
+   "title": "Transformers are Multi-State RNNs",
+   "arxiv": "2401.06104",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "transformers-are-multi-state-rnns_2401.06104.pdf"
+  },
+  {
+   "title": "Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding",
+   "arxiv": "2310.05424",
+   "topic": "distributed-inference.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "fast-and-robust-early-exiting-framework-for-autoregressive-language-models-with-synchronized_2310.05424.pdf"
+  },
+  {
+   "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities",
+   "arxiv": "2308.02490",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "mm-vet-evaluating-large-multimodal-models-for-integrated-capabilities_2308.02490.pdf"
+  },
+  {
+   "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+   "arxiv": "2305.10355",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "evaluating-object-hallucination-in-large-vision-language-models_2305.10355.pdf"
+  },
+  {
+   "title": "VizWiz Grand Challenge: Answering Visual Questions from Blind People",
+   "arxiv": "1802.08218",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "vizwiz-grand-challenge-answering-visual-questions-from-blind-people_1802.08218.pdf"
+  },
+  {
+   "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+   "arxiv": "2405.15793",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "swe-agent-agent-computer-interfaces-enable-automated-software-engineering_2405.15793.pdf"
+  },
+  {
+   "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+   "arxiv": "2401.01335",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "self-play-fine-tuning-converts-weak-language-models-to-strong-language-models_2401.01335.pdf"
+  },
+  {
+   "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+   "arxiv": "2011.01060",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "constructing-a-multi-hop-qa-dataset-for-comprehensive-evaluation-of-reasoning-steps_2011.01060.pdf"
+  },
+  {
+   "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+   "arxiv": "2505.08775",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "healthbench-evaluating-large-language-models-towards-improved-human-health_2505.08775.pdf"
+  },
+  {
+   "title": "AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset",
+   "arxiv": "2504.16891",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "aimo-2-winning-solution-building-state-of-the-art-mathematical-reasoning-models-with_2504.16891.pdf"
+  },
+  {
+   "title": "Machine Comprehension Using Match-LSTM and Answer Pointer",
+   "arxiv": "1608.07905",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2605\u2606\u2606\u2606",
+   "citers": 8,
+   "file": "machine-comprehension-using-match-lstm-and-answer-pointer_1608.07905.pdf"
+  },
+  {
+   "title": "cuDNN: Efficient Primitives for Deep Learning",
+   "arxiv": "1410.0759",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "cudnn-efficient-primitives-for-deep-learning_1410.0759.pdf"
+  },
+  {
+   "title": "Continuous control with deep reinforcement learning",
+   "arxiv": "1509.02971",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "continuous-control-with-deep-reinforcement-learning_1509.02971.pdf"
+  },
+  {
+   "title": "Grammar as a Foreign Language",
+   "arxiv": "1412.7449",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "grammar-as-a-foreign-language_1412.7449.pdf"
+  },
+  {
+   "title": "Long-term recurrent convolutional networks for visual recognition and description",
+   "arxiv": "1411.4389",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "long-term-recurrent-convolutional-networks-for-visual-recognition-and-description_1411.4389.pdf"
+  },
+  {
+   "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks",
+   "arxiv": "1503.00075",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "improved-semantic-representations-from-tree-structured-long-short-term-memory-networks_1503.00075.pdf"
+  },
+  {
+   "title": "On the Number of Linear Regions of Deep Neural Networks",
+   "arxiv": "1402.1869",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "on-the-number-of-linear-regions-of-deep-neural-networks_1402.1869.pdf"
+  },
+  {
+   "title": "A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts",
+   "arxiv": "cs/0409058",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "a-sentimental-education-sentiment-analysis-using-subjectivity-summarization-based-on-minimum-cuts_cs-0409058.pdf"
+  },
+  {
+   "title": "Fast Algorithms for Convolutional Neural Networks",
+   "arxiv": "1509.09308",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "fast-algorithms-for-convolutional-neural-networks_1509.09308.pdf"
+  },
+  {
+   "title": "Data-free Parameter Pruning for Deep Neural Networks",
+   "arxiv": "1507.06149",
+   "topic": "model-compression.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "data-free-parameter-pruning-for-deep-neural-networks_1507.06149.pdf"
+  },
+  {
+   "title": "Fast ConvNets Using Group-Wise Brain Damage",
+   "arxiv": "1506.02515",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "fast-convnets-using-group-wise-brain-damage_1506.02515.pdf"
+  },
+  {
+   "title": "Accelerating Very Deep Convolutional Networks for Classification and Detection",
+   "arxiv": "1505.06798",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "accelerating-very-deep-convolutional-networks-for-classification-and-detection_1505.06798.pdf"
+  },
+  {
+   "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation",
+   "arxiv": "1606.04199",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "deep-recurrent-models-with-fast-forward-connections-for-neural-machine-translation_1606.04199.pdf"
+  },
+  {
+   "title": "MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems",
+   "arxiv": "1512.01274",
+   "topic": "distributed-inference.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems_1512.01274.pdf"
+  },
+  {
+   "title": "Visual7W: Grounded Question Answering in Images",
+   "arxiv": "1511.03416",
+   "topic": "foundational.md",
+   "stars": "\u2605\u2606\u2606\u2606\u2606",
+   "citers": 7,
+   "file": "visual7w-grounded-question-answering-in-images_1511.03416.pdf"
+  }
+ ],
+ "skipped": [
+  {
+   "title": "Analysing Mathematical Reasoning Abilities of Neural Models",
+   "reason": "pdf file already exists"
+  },
+  {
+   "title": "Sequence Transduction with Recurrent Neural Networks",
+   "reason": "pdf file already exists"
+  },
+  {
+   "title": "Character-level Convolutional Networks for Text Classification",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Addressing the Rare Word Problem in Neural Machine Translation",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "DRAW: A Recurrent Neural Network For Image Generation",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Text Understanding with the Attention Sum Reader Network",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Long Short-Term Memory-Networks for Machine Reading",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "A Call for Clarity in Reporting BLEU Scores",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "ELI5: Long Form Question Answering",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Analysing Mathematical Reasoning Abilities of Neural Models",
+   "reason": "pdf file already exists"
+  },
+  {
+   "title": "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "It\u2019s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "On the State of the Art of Evaluation in Neural Language Models",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Bottom-Up Abstractive Summarization",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Constructing Datasets for Multi-hop Reading Comprehension Across Documents",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Latent Retrieval for Weakly Supervised Open Domain Question Answering",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Crowdsourcing Multiple Choice Science Questions",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Sequence Transduction with Recurrent Neural Networks",
+   "reason": "pdf file already exists"
+  },
+  {
+   "title": "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Training Very Deep Networks",
+   "reason": "already present (title)"
+  },
+  {
+   "title": "Intriguing properties of neural networks",
+   "reason": "already present (title)"
+  }
+ ],
+ "failed": [
+  {
+   "title": "Striving for Simplicity: The All Convolutional Net",
+   "arxiv": "1412.6806",
+   "url": "https://arxiv.org/pdf/1412.6806",
+   "reason": "download failed or title mismatch"
+  },
+  {
+   "title": "Revisiting Distributed Synchronous SGD",
+   "arxiv": "1702.05800",
+   "url": "https://arxiv.org/pdf/1702.05800",
+   "reason": "download failed or title mismatch"
+  }
+ ]
+}

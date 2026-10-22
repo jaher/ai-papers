@@ -95,7 +95,7 @@ for it in items:
     if it.get('arxiv') and (it['arxiv'] in present_ax or it['arxiv'] in done_ax):
         state['skipped'].append(dict(title=title, reason=f"already present (arXiv {it['arxiv']})")); continue
     n+=1
-    fname=kebab(title)+(f"_{it['arxiv']}" if it.get('arxiv') else '')+'.pdf'
+    fname=kebab(title)+(f"_{it['arxiv'].replace('/','-')}" if it.get('arxiv') else '')+'.pdf'
     dest=os.path.join(REPO,'papers',fname)
     if os.path.exists(dest):
         state['skipped'].append(dict(title=title, reason='pdf file already exists')); continue
