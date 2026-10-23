@@ -4,7 +4,6 @@ Model and technical reports with inference-relevant findings: the MLA lineage, s
 
 | Paper | Importance | arXiv | Authors | Published | Added | Summary |
 |---|---|---|---|---|---|---|
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | ★★★★★ | [1810.04805](https://arxiv.org/abs/1810.04805) | Jacob Devlin et al. | 2018-10-11 | 2026-09-30 | We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers |
 | RoFormer: Enhanced Transformer with Rotary Position Embedding | ★★★★★ | [2104.09864](https://arxiv.org/abs/2104.09864) | Jianlin Su et al. | 2021-04-20 | 2026-09-30 | Position encoding recently has shown effective in the transformer architecture |
 | High-Resolution Image Synthesis with Latent Diffusion Models | ★★★★★ | [2112.10752](https://arxiv.org/abs/2112.10752) | Robin Rombach et al. | 2021-12-20 | 2026-10-20 | By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond. Additionally, their formulation allows for a guiding… |
 | LLaMA: Open and Efficient Foundation Language Models | ★★★★★ | [2302.13971](https://arxiv.org/abs/2302.13971) | Hugo Touvron et al. | 2023-02-27 | 2026-09-30 | We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters |
