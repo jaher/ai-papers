@@ -16,7 +16,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (74 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (128 papers)
 - [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (958 papers)
-- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (13 papers)
+- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (14 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (5 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (4 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (60 papers)
@@ -39,5 +39,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,121 papers across 18 topics as of 2026-10-23
-- 2,076 PDFs in papers/
+- 2,122 papers across 18 topics as of 2026-10-23
+- 2,077 PDFs in papers/
