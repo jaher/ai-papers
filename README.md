@@ -4,7 +4,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
-- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (95 papers)
+- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (96 papers)
 - [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (78 papers)
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (28 papers)
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (132 papers)
@@ -39,5 +39,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,098 papers across 18 topics as of 2026-10-22
-- 2,053 PDFs in papers/
+- 2,099 papers across 18 topics as of 2026-10-23
+- 2,054 PDFs in papers/
