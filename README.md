@@ -15,13 +15,13 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (18 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (74 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (128 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (959 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (969 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (20 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (5 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (5 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (60 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (76 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (313 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (317 papers)
 
 ## Adding papers
 
@@ -39,5 +39,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,182 papers across 18 topics as of 2026-10-25
-- 2,129 PDFs in papers/
+- 2,196 papers across 18 topics as of 2026-10-25
+- 2,135 PDFs in papers/
