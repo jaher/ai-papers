@@ -4,24 +4,24 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
-- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (99 papers)
-- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (80 papers)
-- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (46 papers)
-- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (134 papers)
-- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (23 papers)
-- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (52 papers)
+- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (101 papers)
+- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (81 papers)
+- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (48 papers)
+- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (142 papers)
+- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (26 papers)
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (56 papers)
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (55 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (18 papers)
-- [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (74 papers)
-- [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (128 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (969 papers)
-- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (20 papers)
-- [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (5 papers)
+- [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (81 papers)
+- [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (129 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (986 papers)
+- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (21 papers)
+- [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (7 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (5 papers)
-- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (60 papers)
+- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (62 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (76 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (317 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (336 papers)
 
 ## Adding papers
 
@@ -39,5 +39,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,196 papers across 18 topics as of 2026-10-25
-- 2,135 PDFs in papers/
+- 2,265 papers across 18 topics as of 2026-10-26
+- 2,204 PDFs in papers/
