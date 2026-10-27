@@ -8,7 +8,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (81 papers)
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (48 papers)
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (142 papers)
-- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (26 papers)
+- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (27 papers)
 - [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (56 papers)
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (55 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
@@ -22,6 +22,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (62 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (76 papers)
 - [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (336 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (20 papers)
 
 ## Adding papers
 
@@ -39,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,265 papers across 18 topics as of 2026-10-26
-- 2,204 PDFs in papers/
+- 2,286 papers across 19 topics as of 2026-10-26
+- 2,225 PDFs in papers/
