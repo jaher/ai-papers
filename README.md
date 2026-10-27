@@ -13,7 +13,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (55 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (18 papers)
-- [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (81 papers)
+- [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (82 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (129 papers)
 - [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (986 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (21 papers)
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,286 papers across 19 topics as of 2026-10-26
-- 2,225 PDFs in papers/
+- 2,287 papers across 19 topics as of 2026-10-27
+- 2,226 PDFs in papers/
