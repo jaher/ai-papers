@@ -5,12 +5,12 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 ## Topics
 
 - [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (104 papers)
-- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (84 papers)
-- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (48 papers)
-- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (143 papers)
+- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (86 papers)
+- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (49 papers)
+- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (145 papers)
 - [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (27 papers)
 - [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (57 papers)
-- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (58 papers)
+- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (60 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (18 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (83 papers)
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,299 papers across 19 topics as of 2026-10-27
-- 2,238 PDFs in papers/
+- 2,306 papers across 19 topics as of 2026-10-28
+- 2,245 PDFs in papers/
