@@ -9,7 +9,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (51 papers)
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (148 papers)
 - [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (27 papers)
-- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (59 papers)
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (61 papers)
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (62 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (20 papers)
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,326 papers across 19 topics as of 2026-10-30
-- 2,253 PDFs in papers/
+- 2,328 papers across 19 topics as of 2026-10-31
+- 2,267 PDFs in papers/
