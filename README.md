@@ -21,12 +21,12 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (5 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (66 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (76 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (336 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (337 papers)
 - [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (21 papers)
 
 ## Adding papers
 
-Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table with an arXiv link, authors, date added, an Importance score (see below), and a one-line summary. Insert the row in the table's reading order: by Importance first, then foundational-before-recent within the same tier.
+Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table with an arXiv link, authors, date added, an Importance score (see below), and a one-line summary. Entries are not constrained to arXiv: a work published only as a technical blog post, report, or other primary source gets a row linking that source, with no PDF required. Insert the row in the table's reading order: by Importance first, then foundational-before-recent within the same tier.
 
 ## Importance
 
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,355 papers across 19 topics as of 2026-11-03
+- 2,356 papers across 19 topics as of 2026-11-03
 - 2,294 PDFs in papers/
