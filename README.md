@@ -22,7 +22,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (66 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (76 papers)
 - [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (338 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (26 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (27 papers)
 
 ## Adding papers
 
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 2,413 papers across 19 topics as of 2026-11-08
-- 2,351 PDFs in papers/
+- 2,414 papers across 19 topics as of 2026-11-08
+- 2,352 PDFs in papers/
