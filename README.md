@@ -15,14 +15,14 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (30 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (84 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (135 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (2,932 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (2,948 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (35 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (7 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (6 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (73 papers)
 - [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (88 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (728 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (811 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (752 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (1130 papers)
 
 ## Adding papers
 
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 5,739 papers across 19 topics as of 2026-11-10
-- 5,658 PDFs in papers/
+- 6,098 papers across 19 topics as of 2026-11-11
+- 6,017 PDFs in papers/
