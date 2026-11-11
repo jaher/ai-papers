@@ -4,13 +4,13 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
-- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (131 papers)
-- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (115 papers)
-- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (61 papers)
-- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (213 papers)
-- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (40 papers)
-- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (91 papers)
-- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (96 papers)
+- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (134 papers)
+- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (116 papers)
+- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (62 papers)
+- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (215 papers)
+- [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (41 papers)
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (94 papers)
+- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (99 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (35 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (30 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (84 papers)
