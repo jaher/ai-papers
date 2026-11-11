@@ -20,9 +20,9 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (7 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (6 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (73 papers)
-- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (87 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (718 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (804 papers)
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (88 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (728 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (810 papers)
 
 ## Adding papers
 
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 5,642 papers across 19 topics as of 2026-11-10
-- 5,561 PDFs in papers/
+- 5,727 papers across 19 topics as of 2026-11-10
+- 5,646 PDFs in papers/
