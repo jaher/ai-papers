@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 6,804 papers across 19 topics as of 2026-11-14
+- 6,871 papers across 19 topics as of 2026-11-15
 - 6,790 PDFs in papers/
