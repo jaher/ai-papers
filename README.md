@@ -5,24 +5,24 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 ## Topics
 
 - [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (138 papers)
-- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (122 papers)
+- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (123 papers)
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (63 papers)
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (227 papers)
 - [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (45 papers)
-- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (101 papers)
-- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (123 papers)
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (103 papers)
+- [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (140 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (40 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (71 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (91 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (140 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (3,890 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (3,939 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (50 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (10 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (10 papers)
-- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (154 papers)
-- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (307 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1061 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (1758 papers)
+- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (157 papers)
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (311 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1062 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (1765 papers)
 
 ## Adding papers
 
@@ -40,5 +40,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 8,401 papers across 19 topics as of 2026-11-17
+- 8,485 papers across 19 topics as of 2026-11-19
 - 8,319 PDFs in papers/
