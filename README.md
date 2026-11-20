@@ -15,14 +15,15 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (71 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (91 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (140 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (3,939 papers)
-- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (50 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (3,885 papers)
+- [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (46 papers)
+- [Weight-Space Programming](topics/weight-space-programming.md) — LLMs that read and write neural network weights: weight-space learning, parameter generation, and model editing and merging in weight space (53 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (10 papers)
-- [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (10 papers)
-- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (157 papers)
-- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (311 papers)
-- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1062 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (1765 papers)
+- [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (9 papers)
+- [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (155 papers)
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (308 papers)
+- [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1,058 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (1,761 papers)
 
 ## Adding papers
 
