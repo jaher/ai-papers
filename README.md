@@ -4,7 +4,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
-- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (142 papers)
+- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (143 papers)
 - [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (129 papers)
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (63 papers)
 - [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (236 papers)
@@ -15,15 +15,15 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (72 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (92 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (140 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (4,076 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (4,105 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (47 papers)
-- [Weight-Space Programming](topics/weight-space-programming.md) — LLMs that read and write neural network weights: weight-space learning, parameter generation, and model editing and merging in weight space (53 papers)
+- [Weight-Space Programming](topics/weight-space-programming.md) — LLMs that read and write neural network weights: weight-space learning, parameter generation, and model editing and merging in weight space (54 papers)
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (10 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (10 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (166 papers)
-- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (337 papers)
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (341 papers)
 - [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1124 papers)
-- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (2113 papers)
+- [Harnesses](topics/harnesses.md) — agent harnesses and orchestration runtimes, tool-use loops, decision/context reuse, harness self-improvement, token/cost efficiency of agent scaffolding (2117 papers)
 
 ## Adding papers
 
@@ -41,5 +41,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 9,150 papers across 20 topics as of 2026-11-21
-- 8,319 PDFs in papers/
+- 9,189 papers across 20 topics as of 2026-11-21
+- 8,348 PDFs in papers/
