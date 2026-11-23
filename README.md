@@ -15,10 +15,10 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (92 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (117 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (151 papers)
-- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (5,082 papers)
+- [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (5,087 papers)
 - [LoRA & Adapters](topics/lora.md) — LoRA serving, multi-tenant adapter kernels, adapter formats (48 papers)
-- [Weight-Space Programming](topics/weight-space-programming.md) — LLMs that read and write neural network weights: weight-space learning, parameter generation, and model editing and merging in weight space (55 papers)
-  - [Weight-space programming](topics/weight-space-programming.md#weight-space-programming-1) (7 papers)
+- [Weight-Space Programming](topics/weight-space-programming.md) — LLMs that read and write neural network weights: weight-space learning, parameter generation, and model editing and merging in weight space (56 papers)
+  - [Weight-space programming](topics/weight-space-programming.md#weight-space-programming-1) (8 papers)
   - [Surveys & overviews](topics/weight-space-programming.md#surveys--overviews) (1 papers)
   - [Learning in weight space](topics/weight-space-programming.md#learning-in-weight-space) (15 papers)
   - [Generating weights](topics/weight-space-programming.md#generating-weights) (24 papers)
@@ -26,7 +26,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Structured & Constrained Decoding](topics/structured-decoding.md) — guided/constrained generation, FSM logit masking (12 papers)
 - [Tokenizers](topics/tokenizers.md) — tokenizer design and its impact on inference (24 papers)
 - [Model Compression](topics/model-compression.md) — pruning, sparsity, distillation (290 papers)
-- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (589 papers)
+- [Pre-Training](topics/pre-training.md) — scaling laws, compute-optimal training, large training runs (590 papers)
   - [Scaling laws & compute-optimal training](topics/pre-training.md#scaling-laws--compute-optimal-training) (44 papers)
   - [Pretraining data: curation, mixtures & quality](topics/pre-training.md#pretraining-data-curation-mixtures--quality) (81 papers)
   - [Training at scale: distributed systems, parallelism & infrastructure](topics/pre-training.md#training-at-scale-distributed-systems-parallelism--infrastructure) (20 papers)
@@ -37,7 +37,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
   - [Understanding pretraining: generalization, memorization & in-context learning](topics/pre-training.md#understanding-pretraining-generalization-memorization--in-context-learning) (48 papers)
   - [Architectures, objectives & long-context](topics/pre-training.md#architectures-objectives--long-context) (49 papers)
   - [Vision, 3D & perception](topics/pre-training.md#vision-3d--perception) (47 papers)
-  - [Surveys, benchmarks & evaluation](topics/pre-training.md#surveys-benchmarks--evaluation) (27 papers)
+  - [Surveys, benchmarks & evaluation](topics/pre-training.md#surveys-benchmarks--evaluation) (28 papers)
   - [Safety, privacy & robustness](topics/pre-training.md#safety-privacy--robustness) (22 papers)
   - [Other pre-training papers](topics/pre-training.md#other-pre-training-papers) (100 papers)
 - [Post-Training](topics/post-training.md) — instruction tuning, RLHF/RLAIF, preference optimization, RL methods (1,314 papers)
@@ -132,5 +132,5 @@ Every paper carries an Importance score for a reader working through LLM inferen
 
 ## Stats
 
-- 11,330 papers across 20 topics as of 2026-11-22
+- 11,337 papers across 20 topics as of 2026-11-22
 - 8,348 PDFs in papers/
