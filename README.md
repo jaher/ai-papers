@@ -4,6 +4,8 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
+Harnesses, Post-Training, Pre-Training and Weight-Space Programming are split into one file per subsection; each of those topic files is an index linking to its subsection files under topics/<topic>/.
+
 - [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (162 papers)
 - [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (131 papers)
 - [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (65 papers)
@@ -27,7 +29,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Adding papers
 
-Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table with an arXiv link, authors, date added, an Importance score (see below), and a one-line summary. Entries are not constrained to arXiv: a work published only as a technical blog post, report, or other primary source gets a row linking that source, with no PDF required. Insert the row in the table's reading order: by Importance first, then foundational-before-recent within the same tier.
+Each paper goes in `papers/` (kebab-case filename with arXiv ID) and gets a row in its primary topic's table (in the matching subsection file for split topics) with an arXiv link, authors, date added, an Importance score (see below), and a one-line summary. Entries are not constrained to arXiv: a work published only as a technical blog post, report, or other primary source gets a row linking that source, with no PDF required. Insert the row in the table's reading order: by Importance first, then foundational-before-recent within the same tier.
 
 ## Importance
 
