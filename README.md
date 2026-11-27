@@ -4,12 +4,12 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 
 ## Topics
 
-- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (181 papers)
-- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (138 papers)
-- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (68 papers)
-- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (382 papers)
+- [Speculative Decoding](topics/speculative-decoding.md) — draft-and-verify decoding, drafter designs (184 papers)
+- [KV-Cache Compression](topics/kv-cache-compression.md) — unified/token-type-aware schemes, low-rank compression, bit-rank allocation (142 papers)
+- [KV-Cache Eviction & Management](topics/kv-cache-eviction.md) — eviction scoring, adaptive budgets, capacity planning (70 papers)
+- [Quantization](topics/quantization.md) — weight/activation/state quantization for inference (384 papers)
 - [Long-Context Memory Compression](topics/long-context-memory-compression.md) — compressing long contexts into memory embeddings (48 papers)
-- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (115 papers)
+- [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (116 papers)
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (168 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (66 papers)
 - [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (92 papers)
