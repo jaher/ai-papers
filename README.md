@@ -12,7 +12,7 @@ A living collection of AI research papers, organized by topic: inference, pre-tr
 - [Distributed Inference](topics/distributed-inference.md) — disaggregated serving, phase splitting, model parallelism, AI-HPC cluster design (116 papers)
 - [Serving Engines](topics/serving-engines.md) — vLLM, SGLang, PagedAttention, schedulers (168 papers)
 - [Attention Kernels](topics/attention-kernels.md) — FlashAttention, FlashInfer, IO-aware attention (66 papers)
-- [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (92 papers)
+- [GPU Kernels & Performance Engineering](topics/gpu-kernels.md) — roofline model, GEMM/scan kernel classics, Triton, LLM kernel-generation benchmarks (94 papers)
 - [Recurrent & Looped Architectures](topics/recurrent-architectures.md) — looped/recurrent transformers, latent reasoning, adaptive depth (150 papers)
 - [Model & Technical Reports](topics/model-reports.md) — model reports with inference-relevant findings (MLA lineage, sparse attention, MoE, open-weight families) (160 papers)
 - [Foundational & Frequently-Cited Works](topics/foundational.md) — transformer architecture, pretraining/scaling, efficient-attention lineage, surveys (7,698 papers)
